@@ -33,3 +33,13 @@ có thể gọi 3 thành phần trên với tên chung là Node
       8. document.embeds
       9. document.head
       10. document.scripts
+
+    // get & set for only collection attr
+    document.querySelector('a').href;
+    document.querySelector('a').href = 'update href';
+
+    // get & set for both collection attr and custom attr
+    document.querySelector('a').getAttribute('custom-href');
+    document.querySelector('a').setAttribute('custom-href', 'update href');
+
+    innerText
