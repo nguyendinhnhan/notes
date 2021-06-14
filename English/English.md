@@ -7,11 +7,14 @@
     1. Đại từ sở hữu
         <details>
         <summary>Được dùng để **tránh lặp lại** thông tin đã vô cùng rõ ràng</summary>
-
-          - Tránh câu nói bị rối vì một thông tin bị nhắc lại nhiều lần
+        ```md
+          
+           - Tránh câu nói bị rối vì một thông tin bị nhắc lại nhiều lần
             
-          **This bag** is **my bag**, not **your bag**
-          **This bag** is **mine**,   not **yours**
+            **This bag** is **my bag**, not **your bag**
+
+            **This bag** is **mine**,   not **yours**
+        ​```
         </details>
 
 ### Lesson 5
