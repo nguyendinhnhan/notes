@@ -42,4 +42,6 @@ có thể gọi 3 thành phần trên với tên chung là Node
     document.querySelector('a').getAttribute('custom-href');
     document.querySelector('a').setAttribute('custom-href', 'update href');
 
-    innerText
+innerText, textContent
+
+InnerHTML, OuterHTML
