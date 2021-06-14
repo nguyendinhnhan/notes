@@ -1,20 +1,121 @@
+
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
+# TODOs:
+
+- <r>TODO:</r> Important thing to do
+- <o>TODO:</o> Less important thing to do
+- <g>DONE:</g> Breath deeply and improve karma
+
 ### Lesson 1
 ### Lesson 2
 ### Lesson 3
-### Lesson 4
+- Demonstrative pronouns and adjectives (Đại từ chỉ định và Tính từ chỉ định)
+    
+    **This, That, These, Those** là những từ chỉ định được dùng để thể hiện **khoảng cách** tương đối giữa **người nói và danh từ**
+    1. Đại từ chỉ định
+        <details>
+        <summary>This/These (gần) - That/Those (xa)</summary>
 
+            THIS (số ít) và THESE (số nhiều khi) nhắc đến cáo có mặt tại/gần (trong tầm với) địa điểm nói
+           + This is my pineapple
+           + These are my oranges
+
+            THAT (số ít) và THOSE (số nhiều) khi nhắc đến cái gì có mặt xa (ngoài tầm với) địa điểm nói
+           + That is my box of fruit juice
+           + Those are the avocados that I bought
+
+            Đại từ chỉ định có thể đứng một mình trong câu *thay thế cho danh từ*
+           + Are you going to buy *that*?
+           + I cannot fix *these*, they are broken
+        </details>
+        
+    2. Tính từ chỉ định
+        <details>
+        <summary>Đi trước danh từ - Phải cùng dạng số ít/nhiều với danh từ đang được nói tới</summary>
+
+           + *This* glass of wine is tasty
+           + He wants *that* coconut for dessert
+           + I want to buy *those* oranges
+           + I love *these* kinds of beverages
+        </details>
+
+    3. Từ chỉ định trong hiện tại và quá khứ
+        <details>
+        <summary>This/these (hiện tại) - That/those (quá khứ)</summary>
+
+            Nếu hành động, sự việc *chưa kết thúc* hoặc xảy ra trong *thời gian gần* thì ta dùng *this/these*
+           + *This* is a good meal
+
+            Nếu hành động đã kết thúc hoặc nó ở quá khứ ta dùng *that/those*
+           + I forgot that I bought *those* coffee beans yesterday
+        </details>
+        
+    4. Cách diễn đạt **This is**
+        <details>
+        <summary>Cách diễn đạt này khi bạn đang nghe điện thoại hoặc bạn giới thiệu ai đó</summary>
+
+           + Hello, can I talk to Chi, please?
+             This is her/ This is Chi
+
+           + This is Minh, he is my friend
+        </details>
+
+### Lesson 4
 - Possessive pronouns and adjectives (Đại từ sở hữu và Tính từ sở hữu)
+
+    | Nhân xưng | Đại từ sở hữu | Tính từ sở hữu |
+    | --------- | ------------- | -------------- |
+    | I         | Mine          | My             |
+    | You       | Yours         | Your           |
+    | We        | Ours          | Our            |
+    | He        | His           | His            |
+    | She       | Hers          | Her            |
+    | It        | Its           | Its            |
+    | They      | Theirs        | Their          |
+
     1. Đại từ sở hữu
         <details>
-        <summary>Được dùng để **tránh lặp lại** thông tin đã vô cùng rõ ràng</summary>
-        ```md
-          
-           - Tránh câu nói bị rối vì một thông tin bị nhắc lại nhiều lần
-            
-            **This bag** is **my bag**, not **your bag**
+        <summary>Được dùng để *tránh lặp lại* thông tin đã vô cùng rõ ràng</summary>
 
-            **This bag** is **mine**,   not **yours**
-        ​```
+           - Tránh câu nói bị rối vì một thông tin bị nhắc lại nhiều lần
+         
+            *This bag* is *my bag*, not *your bag*
+            *This bag* is *mine*,   not *yours*
+
+            Ex: 
+            + This notebook is mine
+            + I lost my bag so I took yours
+            + After school, I go to my home and Nam go to his
+            + That is my book, not hers
+            + These are my textbooks and those are theirs
+
+            Lưu ý:
+            - Tránh dùng từ *Its* trong đại từ sở hữu
+            - Đại từ sở hữu không đi với sở hữu cách ('s)
+            - Of + đại từ sở hữu: để nói về bạn của ai đó
+
+            She is no friend of mine
+            = She is not my friend
+        </details>
+
+    2. Tính từ sở hữu
+        <details>
+        <summary>Dùng để thể hiện *quyền sở hữu* một vật hoặc trong một mối quan hệ với ai đó</summary>
+         
+            *His* essay is bad
+            *Their* teacher is beautiful
+
+            Ex: 
+            + This is MY table
+            + I took YOUR bag
+            + I miss OUR classmates
+            + A cat is eating ITS fish
+            + That is not HER book
         </details>
 
 ### Lesson 5
@@ -36,56 +137,55 @@
         <details>
         <summary>What - Which</summary>
 
-          - Dùng *What* khi **không có** giới hạn các sự lựa chọn
-          - Dùng *Which* khi **có** giới hạn các sự lựa chọn
+           - Dùng *What* khi *không có* giới hạn các sự lựa chọn
+           - Dùng *Which* khi *có* giới hạn các sự lựa chọn
 
-          - **What** shoes should I wear during summer?
-          - **Which** shoes should I wear during summer - slippers or sneakers? 
-
+            What shoes should I wear during summer?
+            Which shoes should I wear during summer - slippers or sneakers? 
         </details>
     
-    3. **Who** is feeling under the weather? - Ai cảm thấy không khoẻ dưới thời tiết này?
+    1. **Who** is feeling under the weather? - Ai cảm thấy không khoẻ dưới thời tiết này?
         <details>
-        <summary>Để hỏi thông tin về **người** = Câu trả lời sẽ là các **chủ ngữ**</summary>
+        <summary>Để hỏi thông tin về *người* = Câu trả lời sẽ là các *chủ ngữ*</summary>
            
-          - Được dùng thông thường hơn
-          - It was **Chi**, she was a bit under the weather today.
+           - Được dùng thông thường hơn
+           - It was *Chi*, she was a bit under the weather today.
         </details>
   
-    4. **Whom** should I talk to about my son's temperature? - Tôi nên nói với ai về nhiệt độ của con trai tôi?
+    2. **Whom** should I talk to about my son's temperature? - Tôi nên nói với ai về nhiệt độ của con trai tôi?
         <details>
-        <summary>Để hỏi thông tin về **người** = Câu trả lời sẽ là các **tân ngữ**</summary>
+        <summary>Để hỏi thông tin về *người* = Câu trả lời sẽ là các *tân ngữ*</summary>
            
            - Ít được dùng trong văn nói
-            You should talk to **him**, he is our doctor.
+
+            You should talk to *him*, he is our doctor.
         </details>
 
-    5. **Whose** are these sweaters? - Những chiếc áo len này của ai?
+    3. **Whose** are these sweaters? - Những chiếc áo len này của ai?
         <details>
         <summary>Để hỏi về **sở hữu** = Tôi muốn biết cái này thuộc về ai</summary>
             
             Whose birthdday is in Spring? - Ai có  sinh nhật vào mùa xuân?
         </details>
 
-    6. **Why** is London called the city of fog? - Tại sao Luân Đôn lại được gọi là thành phố sương mù?
+    4. **Why** is London called the city of fog? - Tại sao Luân Đôn lại được gọi là thành phố sương mù?
         <details>
-        <summary>Để hỏi lý do hoặc giải thích = Tôi muốn biết **tại sao**</summary>
+        <summary>Để hỏi lý do hoặc giải thích = Tôi muốn biết *tại sao*</summary>
         
            - Thường câu trả lời sẽ bắt đầu bằng "Because"
         
             Why does drought affect agriculture? - Tại sao hạn hán lại ảnh hưởng đến nông nghiệp?
-            
         </details>
     
-    7. **Where** is the thunder coming from? - Sấm chớp đến từ đâu?
+    5. **Where** is the thunder coming from? - Sấm chớp đến từ đâu?
         <details>
-        <summary>Để hỏi về **nơi chốn, địa điểm** = Tôi muốn biết địa điểm</summary>
+        <summary>Để hỏi về *nơi chốn, địa điểm* = Tôi muốn biết địa điểm</summary>
 
             Where does Santa live? - Ông già Noel sống ở đâu?
             
         </details>
 
-    8. **When** will rainbow appear? - Khi nào cầu vồng sẽ xuất hiện?
+    6. **When** will rainbow appear? - Khi nào cầu vồng sẽ xuất hiện?
         <details>
         <summary>Để hỏi **thời gian** = Tôi muốn biết về thời gian</summary>
 
@@ -93,9 +193,9 @@
             
         </details>
 
-    9. **How** can we prevent climate change? - Làm thế nào để ngăn biến đổi khí hậu?
+    7. **How** can we prevent climate change? - Làm thế nào để ngăn biến đổi khí hậu?
         <details>
-        <summary>Để hỏi về **cách làm** = Tôi muốn biết về **phương pháp** thực hiện</summary>
+        <summary>Để hỏi về *cách làm* = Tôi muốn biết về *phương pháp* thực hiện</summary>
             
             How to drive in foggy condition? - Làm thế nào để lái xe trong thời tiết sương mù?
         </details>
@@ -144,8 +244,8 @@
         <details>
         <summary>What và How</summary>
 
-           - What  - hỏi về **bản chất** vật/việc/người đang được hỏi
-           - How   - hỏi về **ý kiến** chủ quan/**cảm giác** của người đang được hỏi
+           - What  - hỏi về *bản chất* vật/việc/người đang được hỏi
+           - How   - hỏi về *ý kiến* chủ quan/*cảm giác* của người đang được hỏi
         
             What is the weather like? - It is foggy/rainy/sunny...
             How is the weather? - It is terrible/lovely/nice...
