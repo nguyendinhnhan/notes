@@ -22,7 +22,7 @@
 
 1. Đại từ là gì? Pronouns
     <details>
-    <summary>Từ dùng để xưng hô, *thay thế* cho *danh từ* hoặc *cụm danh từ* trong câu để tránh khỏi lặp từ ngữ</summary>
+    <summary>Từ dùng để xưng hô, *thay thế* cho *danh từ* hoặc *cụm danh từ* trong câu để tránh khỏi lặp từ ngữ</summary><p>
 
     - Put **Linh** on the phone and tell **her** to bring some water
     - I have told **her**, but I don't know if **she** remembers
@@ -30,7 +30,7 @@
 
 2. Đại từ nhân xưng chủ ngữ
     <details>
-    <summary>Dùng cho người nói, người nghe, khi người hoặc vật được nhắc tới - Chỉ dùng để làm *chủ ngữ*</summary>
+    <summary>Dùng cho người nói, người nghe, khi người hoặc vật được nhắc tới - Chỉ dùng để làm *chủ ngữ*</summary><p>
 
     - **I** will see you tomorrow
     - **We** are friends
@@ -41,7 +41,7 @@
 
 3. Đại từ tân ngữ
     <details>
-    <summary>Cũng là đại từ nhân xưng nhưng chúng *không được làm chủ ngữ* - Chỉ làm *tân ngữ* hoặc *bổ ngữ*</summary>
+    <summary>Cũng là đại từ nhân xưng nhưng chúng *không được làm chủ ngữ* - Chỉ làm *tân ngữ* hoặc *bổ ngữ*</summary><p>
 
     - **I** would love to get **me** an ice cream
     - Do **you** remember that **you** have homework today?
@@ -53,21 +53,21 @@
 
 4. Lưu ý
     <details>
-    <summary>Nên thêm danh từ khi đi cùng với đại từ nhân xưng để chỉ rõ từ đó đang nhắc tới ai, cái gì</summary>
+    <summary>Nên thêm danh từ khi đi cùng với đại từ nhân xưng để chỉ rõ từ đó đang nhắc tới ai, cái gì</summary><p>
 
     - You **girls** should get going now  
     - We **doctors** like to sing
     </details>
 
     <details>
-    <summary>Đại từ tân ngữ chỉ được dùng khi ta đã biết rõ danh từ được thay thế đó là gì</summary>
+    <summary>Đại từ tân ngữ chỉ được dùng khi ta đã biết rõ danh từ được thay thế đó là gì</summary><p>
 
     - That is **Ms. Chi**, I met **her** yesterday 
     - Oh no my **cell phone**, **it** is broken
     </details>
 
     <details>
-    <summary>Khi chỉ đồ vật, con vật hoặc danh từ trừu tượng mà không phải chỉ người</summary>
+    <summary>Khi chỉ đồ vật, con vật hoặc danh từ trừu tượng mà không phải chỉ người</summary><p>
    
     *Ta có thể sử dụng đại từ `they/them, he/his, she/her` nếu xác định giới tính*        
     - **My cat** purrs everytime I pet **him**
@@ -92,11 +92,11 @@
 
     **She** bought a present for **herself**
 
-    > *Nhấn mạnh chủ ngữ*     
-    >> **Chi Pu** gives me her autograph **herself**
+    - *Nhấn mạnh chủ ngữ*     
+    **Chi Pu** gives me her autograph **herself**
 
-    > *Trong một vài trường hợp, dùng khi mang lại ý nghĩa, trường hợp tương tự*      
-    >> Seeing my daughter playing with her dog reminds **me** of **myself** when I was small
+    - *Trong một vài trường hợp, dùng khi mang lại ý nghĩa, trường hợp tương tự*      
+    Seeing my daughter playing with her dog reminds **me** of **myself** when I was small
 
     Ex:
     - I am studying English all by **myself**
