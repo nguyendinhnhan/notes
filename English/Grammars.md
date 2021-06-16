@@ -109,21 +109,21 @@
     <summary>Động từ + Đại từ phản thân + Tân ngữ</summary>
 
     Khi ta đang làm gì đó cho chính bản thân mình       
-    I `knit` myself `a sweater`
+    I **knit** myself **a sweater**
     </details>
 
     <details>
     <summary>Động từ + Tân ngữ + Đại từ phản thân</summary>
         
     Nhấn mạnh rằng không ai khác đã giúp đỡ hay làm việc đó     
-    He `talks` to `his boss` himself about a promotion
+    He **talks** to **his boss** himself about a promotion
     </details>
 
     <details>
     <summary>by + myself/yourself/himself/herself</summary>
         
     Nhấn mạnh việc chỉ có một mình và không ở cùng một ai khác      
-    Chi goes to the party `by herself`
+    Chi goes to the party **by herself**
     </details>
 
 2. Chú ý
@@ -140,7 +140,7 @@
     shower          - tắm                   sit down    - ngồi xuống
 
     - Khi đi cùng giới từ chỉ `địa điểm` hoặc `vị trí`, ta dùng `đại từ nhân xưng`, không dùng đại từ phản thân     
-    She puts the books next to `her`
+    She puts the books next to **her**
     </details>
 
     <details>
@@ -149,8 +149,8 @@
     Ta dùng `Each Other` để tả 2 hay nhiều người hoặc vật đang làm cùng một hành động `lên người khác`      
     Còn `Ourselves, Themselves` để tả 2 hay nhiều người hoặc vật làm cùng một hành động `lên chính họ`      
 
-    Chi and Huy bought `each other` presents    - Chi mua quà cho Huy và ngược lại      
-    Chi and Huy bought `themselves` presents    - Chi mua quà cho Chi và tương tự
+    Chi and Huy bought **each other** presents    - Chi mua quà cho Huy và ngược lại      
+    Chi and Huy bought **themselves** presents    - Chi mua quà cho Chi và tương tự
     </details>
 
 
@@ -162,26 +162,26 @@
     <summary>This/These (gần) - That/Those (xa)</summary>
 
     `THIS` (số ít) và `THESE` (số nhiều) khi nhắc đến cáo có mặt `tại/gần (trong tầm với)` địa điểm nói     
-    + `This` is my pineapple
-    + `These` are my oranges
+    + **This** is my pineapple
+    + **These** are my oranges
 
     `THAT` (số ít) và `THOSE` (số nhiều) khi nhắc đến cái gì có mặt `xa (ngoài tầm với)` địa điểm nói       
-    + `That` is my box of fruit juice
-    + `Those` are the avocados that I bought
+    + **That** is my box of fruit juice
+    + **Those** are the avocados that I bought
 
     Đại từ chỉ định có thể đứng một mình trong câu `thay thế cho danh từ`       
-    + Are you going to buy `that`?
-    + I cannot fix `these`, they are broken
+    + Are you going to buy **that**?
+    + I cannot fix **these**, they are broken
     </details>
 
 2. Tính từ chỉ định
     <details>
     <summary>Đi trước danh từ - Phải cùng dạng số ít/nhiều với danh từ đang được nói tới</summary>
 
-    + `This` glass of wine is tasty
-    + He wants `that` coconut for dessert
-    + I want to buy `those` oranges
-    + I love `these` kinds of beverages
+    + **This** glass of wine is tasty
+    + He wants **that** coconut for dessert
+    + I want to buy **those** oranges
+    + I love **these** kinds of beverages
     </details>
 
 3. Từ chỉ định trong hiện tại và quá khứ
@@ -189,10 +189,10 @@
     <summary>This/these (hiện tại) - That/those (quá khứ)</summary>
 
     Nếu hành động, sự việc `chưa kết thúc` hoặc xảy ra trong `thời gian gần` thì ta dùng `this/these`       
-    + `This` is a good meal
+    + **This** is a good meal
 
     Nếu hành động `đã kết thúc` hoặc nó ở `quá khứ` ta dùng `that/those`        
-    + I forgot that I bought ``those`` coffee beans yesterday
+    + I forgot that I bought **those** coffee beans yesterday
     </details>
 
 4. Cách diễn đạt **This is**
@@ -200,9 +200,9 @@
     <summary>Cách diễn đạt này khi bạn đang nghe điện thoại hoặc bạn giới thiệu ai đó</summary>
 
     + Hello, can I talk to Chi, please?     
-    `This is` her/ This is Chi
+    **This is** her/ This is Chi
 
-    + `This is` Minh, he is my friend
+    + **This is** Minh, he is my friend
     </details>
 
 ### 4. Possessive pronouns and adjectives (Đại từ sở hữu và Tính từ sở hữu)
@@ -222,21 +222,21 @@
     <summary>Được dùng để *tránh lặp lại* thông tin đã vô cùng rõ ràng</summary>
 
     - Tránh câu nói bị rối vì một thông tin bị nhắc lại nhiều lần       
-    `This bag` is `my bag`, not `your bag`
-    `This bag` is `mine`,   not `yours`
+    **This bag** is **my bag**, not **your bag**
+    **This bag** is **mine**,   not **yours**
 
     Ex: 
-    + This notebook is `mine`
-    + I lost my bag so I took `yours`
-    + After school, I go to my home and Nam go to `his`
-    + That is my book, not `hers`
-    + These are my textbooks and those are `theirs`
+    + This notebook is **mine**
+    + I lost my bag so I took **yours**
+    + After school, I go to my home and Nam go to **his**
+    + That is my book, not **hers**
+    + These are my textbooks and those are **theirs**
 
     Lưu ý:
     - Tránh dùng từ `Its` trong đại từ sở hữu      
     - Đại từ sở hữu không đi với sở hữu cách `'s`
     - Of + đại từ sở hữu: để nói về bạn của ai đó       
-    She is no friend `of mine`       
+    She is no friend **of mine**       
     She is not my friend
     </details>
 
@@ -244,15 +244,15 @@
     <details>
     <summary>Dùng để thể hiện *quyền sở hữu* một vật hoặc trong một mối quan hệ với ai đó</summary>
         
-    `His` essay is bad      
-    `Their` teacher is beautiful
+    **His** essay is bad      
+    **Their** teacher is beautiful
 
     Ex: 
-    + This is `my` table
-    + I took `your` bag
-    + I miss `our` classmates
-    + A cat is eating `its` fish
-    + That is not `her` book
+    + This is **my** table
+    + I took **your** bag
+    + I miss **our** classmates
+    + A cat is eating **its** fish
+    + That is not **her** book
     </details>
 
 ### 5. Interrogave pronouns (Đại từ nghi vấn)
@@ -274,8 +274,8 @@
 
     - Dùng `What` khi `không có` giới hạn các sự lựa chọn
     - Dùng `Which` khi `có` giới hạn các sự lựa chọn       
-    What shoes should I wear during summer?     
-    Which shoes should I wear during summer - slippers or sneakers? 
+    **What** shoes should I wear during summer?     
+    **Which** shoes should I wear during summer - slippers or sneakers? 
     </details>
 
 3. **Who** is feeling under the weather? - Ai cảm thấy không khoẻ dưới thời tiết này?
@@ -283,7 +283,7 @@
     <summary>Để hỏi thông tin về *người* = Câu trả lời sẽ là các *chủ ngữ*</summary>
         
     - Được dùng thông thường hơn
-    - It was `Chi`, she was a bit under the weather today.
+    - It was **Chi**, she was a bit under the weather today.
     </details>
 
 4. **Whom** should I talk to about my son's temperature? - Tôi nên nói với ai về nhiệt độ của con trai tôi?
@@ -467,8 +467,7 @@
 
     Ví dụ: I, you, he, she, it, them, him, her, this, that, those...
     
-    **Nam** is a volleyball player, **he** plays for my team
-
+    **Nam** is a volleyball player, **he** plays for my team        
     Is **London** a place for extreme sports? I am living in **that** city
     </details>
 
@@ -478,8 +477,7 @@
 
     Ví dụ: Big, small, happy, sad, blue, pink, young, old...
 
-    They are **professional** Olympic divers
-
+    They are **professional** Olympic divers        
     Nam has a pair of **big red** boxing gloves
     </details>
 
@@ -498,12 +496,10 @@
     <details>
     <summary>Từ để **miêu tả, mô phỏng** cho động từ, tính từ hoặc trạng từ khác</summary>
 
-    Thường kết thúc bằng đuôi **-ly**
-
+    Thường kết thúc bằng đuôi `-ly`       
     Ví dụ: quickly, loudly, happily, sadly, very, always, tomorrow, here, there...
 
-    They cheered **loudly** for that solid defense **yesterday**
-
+    They cheered **loudly** for that solid defense **yesterday**        
     He ran **quickly** to be **there** on time
     </details>
 
@@ -511,12 +507,10 @@
     <details>
     <summary>Từ để thể hiện sự **liên quan** của danh từ/ đại từ với từ khác</summary>
 
-    Có thể chỉ thời gian, địa điểm hoặc quan hệ
-
+    Có thể chỉ thời gian, địa điểm hoặc quan hệ     
     Ví dụ: at, on, in, from, with, near, between, about, under...
 
-    Chi passes **on** the baton **for** her teammate **in** the relay race
-
+    Chi passes **on** the baton **for** her teammate **in** the relay race      
     The ball flew **into** the hole
     </details>
 
@@ -526,8 +520,7 @@
 
     Ví dụ: and, or, because, but, so, unless, since...
 
-    Chi passes on the baton for her teammate in the replay race **and** that person runs toward the finishing line
-
+    Chi passes on the baton for her teammate in the replay race **and** that person runs toward the finishing line      
     **If** they score one more points, they will win the game
     </details>
 
@@ -537,8 +530,7 @@
 
     Ví dụ: Yes! Wow! Great! Help! Oh! Hey! Hi!
 
-    **Ouch!** He hit me eith baseball bat
-
+    **Ouch!** He hit me eith baseball bat       
     **Hi!** I saw you in that boxing game last night 
     </details>
 
