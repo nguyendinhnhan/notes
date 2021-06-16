@@ -108,8 +108,8 @@
     <details>
     <summary>Động từ + Đại từ phản thân + Tân ngữ</summary>
 
-    *Khi ta đang làm gì đó cho chính bản thân mình*
-    - I **knit** myself **a sweater**
+    - *Khi ta đang làm gì đó cho chính bản thân mình*       
+    I **knit** myself **a sweater**
     </details>
 
     <details>
@@ -122,8 +122,8 @@
     <details>
     <summary>by + myself/yourself/himself/herself</summary>
     
-    - *Nhấn mạnh việc chỉ có một mình và không ở cùng một ai khác *
-      - Chi goes to the party **by herself**
+    - *Nhấn mạnh việc chỉ có một mình và không ở cùng một ai khác*      
+    Chi goes to the party **by herself**
     </details>
 
 2. Chú ý
