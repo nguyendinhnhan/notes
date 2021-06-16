@@ -10,6 +10,7 @@
 
 ### 1. Personal Pronouns Subject and Object (Đại từ nhân xưng Chủ ngữ và Tân ngữ)
 <br>
+
 | Chủ ngữ | Tân ngữ |
 | ------- | ------- |
 | I       | Me      |
@@ -25,8 +26,9 @@
     <details>
     <summary>Từ dùng để xưng hô, *thay thế* cho *danh từ* hoặc *cụm danh từ* trong câu để tránh khỏi lặp từ ngữ</summary>
 
-        Put *Linh* on the phone and tell *her* to bring some water
-        I have told *her*, but I don't know if *she* remembers
+    Put `Linh` on the phone and tell `her` to bring some water
+    
+    I have told **her**, but I don't know if **she** remembers
     </details>
     <br>
 2. Đại từ nhân xưng chủ ngữ
@@ -77,6 +79,7 @@
 
 ### 2. Reflexive Pronouns (Đại từ phản thân)
 <br>
+
 | Nhân xưng | Phản thân  |
 | --------- | ---------- |
 | I         | Myself     |
@@ -212,6 +215,7 @@
 
 ### 4. Possessive pronouns and adjectives (Đại từ sở hữu và Tính từ sở hữu)
 <br>
+
 | Nhân xưng | Đại từ sở hữu | Tính từ sở hữu |
 | --------- | ------------- | -------------- |
 | I         | Mine          | My             |
@@ -405,6 +409,7 @@
     <br>
 
 ### 6. Indefinite Pronouns (Đại từ bất định)
+<br>
 
 |                                        | Người                 | Địa điểm   | Vật        |
 | -------------------------------------- | --------------------- | ---------- | ---------- |
@@ -412,6 +417,7 @@
 | Một phần<br>*(câu khẳng định)*         | Somebody<br>Someone   | Somewhere  | Something  |
 | Một phần<br>*(câu phủ định, bất định)* | Anybody<br>Anyone     | Anywhere   | Anything   |
 | Không có                               | Nobody<br>No one      | Nowhere    | Nothing    |
+<br>
 
 1. Định nghĩa
     <details>
