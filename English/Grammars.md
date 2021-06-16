@@ -88,15 +88,15 @@
 
 1. Cách sử dụng
     <details>
-    <summary>Là đại từ đặc biệt để dùng khi *chủ ngữ* và *tân ngữ* hoặc *bổ ngữ* là một</summary>
+    <summary>Là đại từ đặc biệt để dùng khi *chủ ngữ* và *tân ngữ* hoặc *bổ ngữ* là một</summary><p>
 
-    - **She** bought a present for **herself**
+    **She** bought a present for **herself**
 
-    Nhấn mạnh chủ ngữ     
-    - **Chi Pu** gives me her autograph **herself**
+    > *Nhấn mạnh chủ ngữ*     
+    >> **Chi Pu** gives me her autograph **herself**
 
-    Trong một vài trường hợp, dùng khi mang lại ý nghĩa, trường hợp tương tự      
-    - Seeing my daughter playing with her dog reminds **me** of **myself** when I was small
+    > *Trong một vài trường hợp, dùng khi mang lại ý nghĩa, trường hợp tương tự*      
+    >> Seeing my daughter playing with her dog reminds **me** of **myself** when I was small
 
     Ex:
     - I am studying English all by **myself**
@@ -106,7 +106,7 @@
     </details>
 
     <details>
-    <summary>Động từ + Đại từ phản thân + Tân ngữ</summary>
+    <summary>Động từ + Đại từ phản thân + Tân ngữ</summary><p>
 
     - *Khi ta đang làm gì đó cho chính bản thân mình*       
     I **knit** myself **a sweater**
@@ -115,8 +115,8 @@
     <details>
     <summary>Động từ + Tân ngữ + Đại từ phản thân</summary><p>
         
-    *Nhấn mạnh rằng không ai khác đã giúp đỡ hay làm việc đó*     
-    - He **talks** to **his boss** himself about a promotion
+    - *Nhấn mạnh rằng không ai khác đã giúp đỡ hay làm việc đó*     
+    He **talks** to **his boss** himself about a promotion
     </details>
 
     <details>
