@@ -139,8 +139,7 @@
     remember        - nhớ                   shave       - cạo
     shower          - tắm                   sit down    - ngồi xuống
 
-    - Khi đi cùng giới từ chỉ `địa điểm` hoặc `vị trí`,     
-    ta dùng `đại từ nhân xưng`, không dùng đại từ phản thân     
+    - Khi đi cùng giới từ chỉ `địa điểm` hoặc `vị trí`, ta dùng `đại từ nhân xưng`, không dùng đại từ phản thân     
     She puts the books next to `her`
     </details>
 
