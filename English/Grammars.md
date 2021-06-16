@@ -9,7 +9,6 @@
 - [9. Articles (Mạo từ: a, an, the)](#9-articles-mạo-từ-a-an-the)
 
 ### 1. Personal Pronouns Subject and Object (Đại từ nhân xưng Chủ ngữ và Tân ngữ)
-<br>
 
 | Chủ ngữ | Tân ngữ |
 | ------- | ------- |
@@ -20,7 +19,6 @@
 | He      | Him     |
 | It      | It      |
 | They    | Them    |
-<br>
 
 1. Đại từ là gì? Pronouns
     <details>
@@ -29,7 +27,7 @@
     Put `Linh` on the phone and tell `her` to bring some water      
     I have told `her`, but I don't know if `she` remembers
     </details>
-    <br>
+
 2. Đại từ nhân xưng chủ ngữ
     <details>
     <summary>Dùng cho người nói, người nghe, khi người hoặc vật được nhắc tới - Chỉ dùng để làm *chủ ngữ*</summary>
@@ -40,7 +38,7 @@
     Ask `Thanh` if he likes to come to our party        
     What does `she` like to eat?
     </details>
-    <br>
+
 3. Đại từ tân ngữ
     <details>
     <summary>Cũng là đại từ nhân xưng nhưng chúng *không được làm chủ ngữ* - Chỉ làm *tân ngữ* hoặc *bổ ngữ*</summary>
@@ -52,7 +50,7 @@
     Look at `my car`, `it` has shiny mirrors        
     Tell `them` your name
     </details>
-    <br>
+
 4. Lưu ý
     <details>
     <summary>Nên thêm danh từ khi đi cùng với đại từ nhân xưng để chỉ rõ từ đó đang nhắc tới ai, cái gì</summary>
@@ -74,10 +72,9 @@
     Ta có thể sử dụng đại từ `they/them, he/his, she/her` nếu xác định giới tính         
     `My cat` purrs everytime I pet `him`
     </details>
-    <br>
+
 
 ### 2. Reflexive Pronouns (Đại từ phản thân)
-<br>
 
 | Nhân xưng | Phản thân  |
 | --------- | ---------- |
@@ -89,7 +86,6 @@
 | He        | Himself    |
 | It        | Itself     |
 | They      | Themselves |
-<br>
 
 1. Cách sử dụng
     <details>
@@ -119,47 +115,45 @@
     <details>
     <summary>Động từ + Tân ngữ + Đại từ phản thân</summary>
         
-        Nhấn mạnh rằng không ai khác đã giúp đỡ hay làm việc đó
-        He *talks* to *his boss* himself about a promotion
+    Nhấn mạnh rằng không ai khác đã giúp đỡ hay làm việc đó     
+    He `talks` to `his boss` himself about a promotion
     </details>
 
     <details>
     <summary>by + myself/yourself/himself/herself</summary>
         
-        Nhấn mạnh việc chỉ có một mình và không ở cùng một ai khác
-        Chi goes to the party *by herself*
+    Nhấn mạnh việc chỉ có một mình và không ở cùng một ai khác      
+    Chi goes to the party `by herself`
     </details>
-    <br>
+
 2. Chú ý
     <details>
     <summary>Khi nào không nên dùng</summary>
         
-        - Một số động từ hiếm khi hoặc không dùng đại từ phản thân vì những từ này bắt nguồn từ tiếng khác:
-        
-        adapt           - thích nghi            complain    - than phiền
-        concentrate     - tập trung             hide        - che giấu
-        lie down        - nằm xuống             meet        - gặp gỡ
-        move            - di chuyển             relax       - thư giãn
-        remember        - nhớ                   shave       - cạo
-        shower          - tắm                   sit down    - ngồi xuống
+    - Một số động từ hiếm khi hoặc không dùng đại từ phản thân vì những từ này bắt nguồn từ tiếng khác:
+     
+    adapt           - thích nghi            complain    - than phiền
+    concentrate     - tập trung             hide        - che giấu
+    lie down        - nằm xuống             meet        - gặp gỡ
+    move            - di chuyển             relax       - thư giãn
+    remember        - nhớ                   shave       - cạo
+    shower          - tắm                   sit down    - ngồi xuống
 
-
-        - Khi đi cùng giới từ chỉ *địa điểm* hoặc *vị trí*, 
-        ta dùng *đại từ nhân xưng*, không dùng đại từ phản thân
-        
-        She puts the books next to *her*
+    - Khi đi cùng giới từ chỉ `địa điểm` hoặc `vị trí`,     
+    ta dùng `đại từ nhân xưng`, không dùng đại từ phản thân     
+    She puts the books next to `her`
     </details>
 
     <details>
     <summary>Phân biệt Ourselves, Themselves và Each Other</summary>
         
-        Ta dùng *Each Other* để tả 2 hay nhiều người hoặc vật đang làm cùng một hành động *lên người khác*
-        Còn *Ourselves, Themselves* để tả 2 hay nhiều người hoặc vật làm cùng một hành động *lên chính họ*
+    Ta dùng `Each Other` để tả 2 hay nhiều người hoặc vật đang làm cùng một hành động `lên người khác`      
+    Còn `Ourselves, Themselves` để tả 2 hay nhiều người hoặc vật làm cùng một hành động `lên chính họ`      
 
-        Chi and Huy bought *each other* presents    - Chi mua quà cho Huy và ngược lại
-        Chi and Huy bought themselves presents      - Chi mua quà cho Chi và tương tự
+    Chi and Huy bought `each other` presents    - Chi mua quà cho Huy và ngược lại      
+    Chi and Huy bought `themselves` presents    - Chi mua quà cho Chi và tương tự
     </details>
-    <br>
+
 
 ### 3. Demonstrative pronouns and adjectives (Đại từ chỉ định và Tính từ chỉ định)
     
@@ -168,52 +162,51 @@
     <details>
     <summary>This/These (gần) - That/Those (xa)</summary>
 
-        THIS (số ít) và THESE (số nhiều khi) nhắc đến cáo có mặt tại/gần (trong tầm với) địa điểm nói
-        + This is my pineapple
-        + These are my oranges
+    `THIS` (số ít) và `THESE` (số nhiều) khi nhắc đến cáo có mặt `tại/gần (trong tầm với)` địa điểm nói     
+    + `This` is my pineapple
+    + `These` are my oranges
 
-        THAT (số ít) và THOSE (số nhiều) khi nhắc đến cái gì có mặt xa (ngoài tầm với) địa điểm nói
-        + That is my box of fruit juice
-        + Those are the avocados that I bought
+    `THAT` (số ít) và `THOSE` (số nhiều) khi nhắc đến cái gì có mặt `xa (ngoài tầm với)` địa điểm nói       
+    + `That` is my box of fruit juice
+    + `Those` are the avocados that I bought
 
-        Đại từ chỉ định có thể đứng một mình trong câu *thay thế cho danh từ*
-        + Are you going to buy *that*?
-        + I cannot fix *these*, they are broken
+    Đại từ chỉ định có thể đứng một mình trong câu `thay thế cho danh từ`       
+    + Are you going to buy `that`?
+    + I cannot fix `these`, they are broken
     </details>
-    <br>
+
 2. Tính từ chỉ định
     <details>
     <summary>Đi trước danh từ - Phải cùng dạng số ít/nhiều với danh từ đang được nói tới</summary>
 
-        + *This* glass of wine is tasty
-        + He wants *that* coconut for dessert
-        + I want to buy *those* oranges
-        + I love *these* kinds of beverages
+    + `This` glass of wine is tasty
+    + He wants `that` coconut for dessert
+    + I want to buy `those` oranges
+    + I love `these` kinds of beverages
     </details>
-    <br>
+
 3. Từ chỉ định trong hiện tại và quá khứ
     <details>
     <summary>This/these (hiện tại) - That/those (quá khứ)</summary>
 
-        Nếu hành động, sự việc *chưa kết thúc* hoặc xảy ra trong *thời gian gần* thì ta dùng *this/these*
-        + *This* is a good meal
+    Nếu hành động, sự việc `chưa kết thúc` hoặc xảy ra trong `thời gian gần` thì ta dùng `this/these`       
+    + `This` is a good meal
 
-        Nếu hành động đã kết thúc hoặc nó ở quá khứ ta dùng *that/those*
-        + I forgot that I bought *those* coffee beans yesterday
+    Nếu hành động `đã kết thúc` hoặc nó ở `quá khứ` ta dùng `that/those`        
+    + I forgot that I bought ``those`` coffee beans yesterday
     </details>
-    <br>
+
 4. Cách diễn đạt **This is**
     <details>
     <summary>Cách diễn đạt này khi bạn đang nghe điện thoại hoặc bạn giới thiệu ai đó</summary>
 
-        + Hello, can I talk to Chi, please?
-            This is her/ This is Chi
+    + Hello, can I talk to Chi, please?     
+    `This is` her/ This is Chi
 
-        + This is Minh, he is my friend
+    + `This is` Minh, he is my friend
     </details>
 
 ### 4. Possessive pronouns and adjectives (Đại từ sở hữu và Tính từ sở hữu)
-<br>
 
 | Nhân xưng | Đại từ sở hữu | Tính từ sở hữu |
 | --------- | ------------- | -------------- |
@@ -224,47 +217,43 @@
 | She       | Hers          | Her            |
 | It        | Its           | Its            |
 | They      | Theirs        | Their          |
-<br>
 
 1. Đại từ sở hữu
     <details>
     <summary>Được dùng để *tránh lặp lại* thông tin đã vô cùng rõ ràng</summary>
 
-        - Tránh câu nói bị rối vì một thông tin bị nhắc lại nhiều lần
-        
-        *This bag* is *my bag*, not *your bag*
-        *This bag* is *mine*,   not *yours*
+    - Tránh câu nói bị rối vì một thông tin bị nhắc lại nhiều lần       
+    `This bag` is `my bag`, not `your bag`
+    `This bag` is `mine`,   not `yours`
 
-        Ex: 
-        + This notebook is mine
-        + I lost my bag so I took yours
-        + After school, I go to my home and Nam go to his
-        + That is my book, not hers
-        + These are my textbooks and those are theirs
+    Ex: 
+    + This notebook is `mine`
+    + I lost my bag so I took `yours`
+    + After school, I go to my home and Nam go to `his`
+    + That is my book, not `hers`
+    + These are my textbooks and those are `theirs`
 
-        Lưu ý:
-        - Tránh dùng từ *Its* trong đại từ sở hữu
-        - Đại từ sở hữu không đi với sở hữu cách ('s)
-        - Of + đại từ sở hữu: để nói về bạn của ai đó
-
-        She is no friend of mine
-        = She is not my friend
+    Lưu ý:
+    - Tránh dùng từ `Its` trong đại từ sở hữu      
+    - Đại từ sở hữu không đi với sở hữu cách `'s`
+    - Of + đại từ sở hữu: để nói về bạn của ai đó       
+    She is no friend `of mine`       
+    She is not my friend
     </details>
-    <br>
 
 2. Tính từ sở hữu
     <details>
     <summary>Dùng để thể hiện *quyền sở hữu* một vật hoặc trong một mối quan hệ với ai đó</summary>
         
-        *His* essay is bad
-        *Their* teacher is beautiful
+    `His` essay is bad      
+    `Their` teacher is beautiful
 
-        Ex: 
-        + This is MY table
-        + I took YOUR bag
-        + I miss OUR classmates
-        + A cat is eating ITS fish
-        + That is not HER book
+    Ex: 
+    + This is `my` table
+    + I took `your` bag
+    + I miss `our` classmates
+    + A cat is eating `its` fish
+    + That is not `her` book
     </details>
 
 ### 5. Interrogave pronouns (Đại từ nghi vấn)
@@ -272,10 +261,9 @@
     <details>
     <summary>Là từ để hỏi thông tin cụ thể = Tôi muốn biết cái gì</summary>
 
-        What is Mosoon season? - Mùa gió mùa là gì?
-        At what temperature does water boil? - Nước sẽ sooii ở nhiệt độ nào?
+    What is Mosoon season? - Mùa gió mùa là gì?     
+    At what temperature does water boil? - Nước sẽ sooii ở nhiệt độ nào?
     </details>
-    <br>
 
 2. **Which** color of the rainbow does she like the most? - Cô ấy thích nhất màu nào của cầu vồng?
     <details>
@@ -285,130 +273,110 @@
     <details>
     <summary>What - Which</summary>
 
-        - Dùng *What* khi *không có* giới hạn các sự lựa chọn
-        - Dùng *Which* khi *có* giới hạn các sự lựa chọn
-
-        What shoes should I wear during summer?
-        Which shoes should I wear during summer - slippers or sneakers? 
+    - Dùng `What` khi `không có` giới hạn các sự lựa chọn
+    - Dùng `Which` khi `có` giới hạn các sự lựa chọn       
+    What shoes should I wear during summer?     
+    Which shoes should I wear during summer - slippers or sneakers? 
     </details>
-    <br>
 
 3. **Who** is feeling under the weather? - Ai cảm thấy không khoẻ dưới thời tiết này?
     <details>
     <summary>Để hỏi thông tin về *người* = Câu trả lời sẽ là các *chủ ngữ*</summary>
         
-        - Được dùng thông thường hơn
-        - It was *Chi*, she was a bit under the weather today.
+    - Được dùng thông thường hơn
+    - It was `Chi`, she was a bit under the weather today.
     </details>
-    <br>
 
 4. **Whom** should I talk to about my son's temperature? - Tôi nên nói với ai về nhiệt độ của con trai tôi?
     <details>
     <summary>Để hỏi thông tin về *người* = Câu trả lời sẽ là các *tân ngữ*</summary>
         
-        - Ít được dùng trong văn nói
-
-        You should talk to *him*, he is our doctor.
+    - Ít được dùng trong văn nói       
+    You should talk to `him`, he is our doctor.
     </details>
-    <br>
 
 5. **Whose** are these sweaters? - Những chiếc áo len này của ai?
     <details>
     <summary>Để hỏi về **sở hữu** = Tôi muốn biết cái này thuộc về ai</summary>
         
-        Whose birthdday is in Spring? - Ai có  sinh nhật vào mùa xuân?
+    Whose birthdday is in Spring? - Ai có  sinh nhật vào mùa xuân?
     </details>
-    <br>
 
 6. **Why** is London called the city of fog? - Tại sao Luân Đôn lại được gọi là thành phố sương mù?
     <details>
     <summary>Để hỏi lý do hoặc giải thích = Tôi muốn biết *tại sao*</summary>
     
-        - Thường câu trả lời sẽ bắt đầu bằng "Because"
-    
-        Why does drought affect agriculture? - Tại sao hạn hán lại ảnh hưởng đến nông nghiệp?
+    - Thường câu trả lời sẽ bắt đầu bằng `Because`      
+    Why does drought affect agriculture? - Tại sao hạn hán lại ảnh hưởng đến nông nghiệp?
     </details>
-    <br>
 
 7. **Where** is the thunder coming from? - Sấm chớp đến từ đâu?
     <details>
     <summary>Để hỏi về *nơi chốn, địa điểm* = Tôi muốn biết địa điểm</summary>
 
-        Where does Santa live? - Ông già Noel sống ở đâu?
-        
+    Where does Santa live? - Ông già Noel sống ở đâu? 
     </details>
-    <br>
+
 
 8. **When** will rainbow appear? - Khi nào cầu vồng sẽ xuất hiện?
     <details>
     <summary>Để hỏi **thời gian** = Tôi muốn biết về thời gian</summary>
 
-        When does Winter start? - Khi nào thì mùa đông bắt đầu?
-        
+    When does Winter start? - Khi nào thì mùa đông bắt đầu?
     </details>
-    <br>
+
 
 9. **How** can we prevent climate change? - Làm thế nào để ngăn biến đổi khí hậu?
     <details>
     <summary>Để hỏi về *cách làm* = Tôi muốn biết về *phương pháp* thực hiện</summary>
         
-        How to drive in foggy condition? - Làm thế nào để lái xe trong thời tiết sương mù?
+    How to drive in foggy condition? - Làm thế nào để lái xe trong thời tiết sương mù?
     </details>
-
 
     <details>
     <summary>How + tính từ</summary>
     
-    - Để hỏi về mức độ của một thuộc tính
-    
-        How cold is the weather during Winter? - Vào mùa đông thời tiết thường lạnh như thế nào nhỉ?
-        How tall are you? - Bạn cao bao nhiêu?
-        How far is the North Pole? - Bắc cực cách bao xa?
+    - Để hỏi về mức độ của một thuộc tính       
+    How cold is the weather during Winter? - Vào mùa đông thời tiết thường lạnh như thế nào nhỉ?        
+    How tall are you? - Bạn cao bao nhiêu?      
+    How far is the North Pole? - Bắc cực cách bao xa?       
     </details>
-
 
     <details>
     <summary>How + often</summary>
     
-    - Để hỏi về tần suất, mức độ của hành động
-
-        How often do they go jogging in Spring? - Vào mùa xuân thì tần suất đi bộ của họ là bao nhiêu?
-        How often does rainbow appear? - Tần suất xuất hiện của cầu vồng là bao nhiêu?  
+    - Để hỏi về tần suất, mức độ của hành động      
+    How often do they go jogging in Spring? - Vào mùa xuân thì tần suất đi bộ của họ là bao nhiêu?      
+    How often does rainbow appear? - Tần suất xuất hiện của cầu vồng là bao nhiêu?  
     </details>
     
     <details>
     <summary>How + much</summary>
     
-    - Để hỏi về số lượng, giá cả: dùng cho danh từ không đếm được
-
-        How much time do you need to goto work? - Bạn cần bao nhiêu thời gian để đi làm?
-        How much are these sweaters? - Những chiếc áo len này giá bao nhiêu?
-        How much milk does she need to bake? - Cô ấy cần bao nhiêu sữa để làm bánh?
+    - Để hỏi về số lượng, giá cả: dùng cho danh từ không đếm được       
+    How much time do you need to goto work? - Bạn cần bao nhiêu thời gian để đi làm?        
+    How much are these sweaters? - Những chiếc áo len này giá bao nhiêu?        
+    How much milk does she need to bake? - Cô ấy cần bao nhiêu sữa để làm bánh?     
     </details>
 
     <details>
     <summary>How + many</summary>
     
-    - Để hỏi về số lượng: dùng cho danh từ đếm được
-
-        How many seasons are there in a year? - Có bao nhiêu mùa trong một năm?
-        How many sweaters do you want to buy? - Bạn muốn mua bao nhiêu cái áo len?
+    - Để hỏi về số lượng: dùng cho danh từ đếm được     
+    How many seasons are there in a year? - Có bao nhiêu mùa trong một năm?     
+    How many sweaters do you want to buy? - Bạn muốn mua bao nhiêu cái áo len?      
     </details>
-
 
     <details>
     <summary>What và How</summary>
 
     - What  - hỏi về *bản chất* vật/việc/người đang được hỏi
-    - How   - hỏi về *ý kiến* chủ quan/*cảm giác* của người đang được hỏi
-    
-        What is the weather like?   - It is foggy/rainy/sunny...
-        How is the weather?         - It is terrible/lovely/nice...
+    - How   - hỏi về *ý kiến* chủ quan/*cảm giác* của người đang được hỏi       
+    What is the weather like?   - It is foggy/rainy/sunny...        
+    How is the weather?         - It is terrible/lovely/nice...
     </details>
-    <br>
 
 ### 6. Indefinite Pronouns (Đại từ bất định)
-<br>
 
 |                                        | Người                 | Địa điểm   | Vật        |
 | -------------------------------------- | --------------------- | ---------- | ---------- |
@@ -416,7 +384,6 @@
 | Một phần<br>*(câu khẳng định)*         | Somebody<br>Someone   | Somewhere  | Something  |
 | Một phần<br>*(câu phủ định, bất định)* | Anybody<br>Anyone     | Anywhere   | Anything   |
 | Không có                               | Nobody<br>No one      | Nowhere    | Nothing    |
-<br>
 
 1. Định nghĩa
     <details>
@@ -427,7 +394,7 @@
     - There must be **somewhere** we can play soccer
     - I have to prepare **everything** before the big race this December
     </details>
-    <br>
+
 2. Nguyên tắc khi dùng đại từ bất định
     <details>
     <summary>Đều chia với động từ số ít</summary> 
@@ -445,7 +412,7 @@
     - **Nothing** ever goes as planned, **does** it?
     - **Everyone** tried to stay healthy during holidays. **They** went to the gym
     </details>
-    <br>
+
 
 3. Cách đặt câu với đặt từ bất định
    - Câu khẳng định
@@ -466,7 +433,7 @@
 
             **Nowhere** is safe
         </details>
-        <br>
+    
 
    - Câu phủ định, nghi vấn
         <details>
