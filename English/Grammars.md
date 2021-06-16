@@ -113,15 +113,15 @@
     </details>
 
     <details>
-    <summary>Động từ + Tân ngữ + Đại từ phản thân</summary>
+    <summary>Động từ + Tân ngữ + Đại từ phản thân</summary><p>
         
-    - *Nhấn mạnh rằng không ai khác đã giúp đỡ hay làm việc đó*     
-    He **talks** to **his boss** himself about a promotion
+    *Nhấn mạnh rằng không ai khác đã giúp đỡ hay làm việc đó*     
+    - He **talks** to **his boss** himself about a promotion
     </details>
 
     <details>
-    <summary>by + myself/yourself/himself/herself</summary>
-    
+    <summary>by + myself/yourself/himself/herself</summary><p>
+
     - *Nhấn mạnh việc chỉ có một mình và không ở cùng một ai khác*      
     Chi goes to the party **by herself**
     </details>
