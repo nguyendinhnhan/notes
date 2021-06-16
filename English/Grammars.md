@@ -24,53 +24,53 @@
     <details>
     <summary>Từ dùng để xưng hô, *thay thế* cho *danh từ* hoặc *cụm danh từ* trong câu để tránh khỏi lặp từ ngữ</summary>
 
-    Put `Linh` on the phone and tell `her` to bring some water      
-    I have told `her`, but I don't know if `she` remembers
+    Put **Linh** on the phone and tell **her** to bring some water      
+    I have told **her**, but I don't know if **she** remembers
     </details>
 
 2. Đại từ nhân xưng chủ ngữ
     <details>
     <summary>Dùng cho người nói, người nghe, khi người hoặc vật được nhắc tới - Chỉ dùng để làm *chủ ngữ*</summary>
         
-    `I` will see you tomorrow       
-    `We` are friends        
-    `You` look lovely today     
-    Ask `Thanh` if he likes to come to our party        
-    What does `she` like to eat?
+    **I** will see you tomorrow       
+    **We** are friends        
+    **You** look lovely today     
+    Ask **Thanh** if he likes to come to our party        
+    What does **she** like to eat?
     </details>
 
 3. Đại từ tân ngữ
     <details>
     <summary>Cũng là đại từ nhân xưng nhưng chúng *không được làm chủ ngữ* - Chỉ làm *tân ngữ* hoặc *bổ ngữ*</summary>
         
-    `I` would love to get `me` an ice cream     
-    Do `you` remember that `you` have homework today?       
-    Hey `Trang`, Chi tells `us` to pick up some apples on the way home      
-    `Nam` is standing near the door, tell `him` to open it      
-    Look at `my car`, `it` has shiny mirrors        
-    Tell `them` your name
+    **I** would love to get **me** an ice cream     
+    Do **you** remember that **you** have homework today?       
+    Hey **Trang**, Chi tells **us** to pick up some apples on the way home      
+    **Nam** is standing near the door, tell **him** to open it      
+    Look at **my car**, **it** has shiny mirrors        
+    Tell **them** your name
     </details>
 
 4. Lưu ý
     <details>
     <summary>Nên thêm danh từ khi đi cùng với đại từ nhân xưng để chỉ rõ từ đó đang nhắc tới ai, cái gì</summary>
         
-    You `girls` should get going now        
-    We `doctors` like to sing
+    You **girls** should get going now        
+    We **doctors** like to sing
     </details>
 
     <details>
     <summary>Đại từ tân ngữ chỉ được dùng khi ta đã biết rõ danh từ được thay thế đó là gì</summary>
 
-    That is `Ms. Chi`, I met `her` yesterday        
-    Oh no my `cell phone`, `it` is broken
+    That is **Ms. Chi**, I met **her** yesterday        
+    Oh no my **cell phone**, **it** is broken
     </details>
 
     <details>
     <summary>Khi chỉ đồ vật, con vật hoặc danh từ trừu tượng mà không phải chỉ người</summary>
    
     Ta có thể sử dụng đại từ `they/them, he/his, she/her` nếu xác định giới tính         
-    `My cat` purrs everytime I pet `him`
+    **My cat** purrs everytime I pet **him**
     </details>
 
 
@@ -91,18 +91,18 @@
     <details>
     <summary>Là đại từ đặc biệt để dùng khi *chủ ngữ* và *tân ngữ* hoặc *bổ ngữ* là một</summary>
 
-    `She` bought a present for `herself`
+    **She** bought a present for **herself**
 
     - Nhấn mạnh chủ ngữ     
-    `Chi Pu` gives me her autograph `herself`
+    **Chi Pu** gives me her autograph **herself**
 
     - Trong một vài trường hợp, dùng khi mang lại ý nghĩa, trường hợp tương tự      
-    Seeing my daughter playing with her dog reminds `me` of `myself` when I was small
+    Seeing my daughter playing with her dog reminds **me** of **myself** when I was small
 
-    I am studying English all by `myself`   
-    We cook `ourselves` dinner  
-    You should prepare `yourself` before the final exam     
-    You guys should choose the topic for the assignment `yourselves`
+    I am studying English all by **myself**   
+    We cook **ourselves** dinner  
+    You should prepare **yourself** before the final exam     
+    You guys should choose the topic for the assignment **yourselves**
     </details>
 
     <details>
@@ -291,7 +291,7 @@
     <summary>Để hỏi thông tin về *người* = Câu trả lời sẽ là các *tân ngữ*</summary>
         
     - Ít được dùng trong văn nói       
-    You should talk to `him`, he is our doctor.
+    You should talk to **him**, he is our doctor.
     </details>
 
 5. **Whose** are these sweaters? - Những chiếc áo len này của ai?
@@ -369,8 +369,8 @@
     <details>
     <summary>What và How</summary>
 
-    - What  - hỏi về *bản chất* vật/việc/người đang được hỏi
-    - How   - hỏi về *ý kiến* chủ quan/*cảm giác* của người đang được hỏi       
+    - What  - hỏi về `bản chất` vật/việc/người đang được hỏi
+    - How   - hỏi về `ý kiến` chủ quan/`cảm giác` của người đang được hỏi       
     What is the weather like?   - It is foggy/rainy/sunny...        
     How is the weather?         - It is terrible/lovely/nice...
     </details>
@@ -388,28 +388,28 @@
     <details>
     <summary>Là những từ không chỉ cụ thể đến người hay vật nào đó mà chỉ nói một cách *chung chung*</summary>
 
-    - Do you play sport with **anybody** in your class?
-    - **No one** in my class is flexible
-    - There must be **somewhere** we can play soccer
-    - I have to prepare **everything** before the big race this December
+    Do you play sport with **anybody** in your class?       
+    **No one** in my class is flexible      
+    There must be **somewhere** we can play soccer      
+    I have to prepare **everything** before the big race this December
     </details>
 
 2. Nguyên tắc khi dùng đại từ bất định
     <details>
     <summary>Đều chia với động từ số ít</summary> 
     
-    - Somebody **is** running through the windows
-    - Nothing ever **goes** as planned
-    - Anywhere with you **is** home
-    - Everything **happens** for a reason 
+    Somebody **is** running through the windows     
+    Nothing ever **goes** as planned        
+    Anywhere with you **is** home       
+    Everything **happens** for a reason
     </details>
 
     <details>
     <summary>Đều chỉ danh từ số nhiều - Trừ những đại từ chứa từ "thing"</summary>
         
-    - **Somebody** lost **their** uniforms
-    - **Nothing** ever goes as planned, **does** it?
-    - **Everyone** tried to stay healthy during holidays. **They** went to the gym
+    **Somebody** lost **their** uniforms        
+    **Nothing** ever goes as planned, **does** it?      
+    **Everyone** tried to stay healthy during holidays. **They** went to the gym
     </details>
 
 
@@ -417,32 +417,25 @@
    - Câu khẳng định
         <details>
         <summary>Some, Every, Any, No</summary>
-            
+
         - Some = số lượng bất định
-            
-            **Something** in that house is broken, it keeps making noise    
+        **Something** in that house is broken, it keeps making noise    
 
         - Every = toàn bộ (số lượng) ~ Any = bất cứ
-
-            **Everyone** in my team wants to become trainers
-
-            **Anybody** in my team can become trainers
+        **Everyone** in my team wants to become trainers
+        **Anybody** in my team can become trainers
 
         - No = Không có (số lượng) - Làm câu khẳng định mang ý nghĩa tiêu cực
-
-            **Nowhere** is safe
+        **Nowhere** is safe
         </details>
     
-
    - Câu phủ định, nghi vấn
         <details>
         <summary>Câu phủ định chỉ được tạo bởi từ "Any" - Câu khẳng định mang hàm ý phủ định với đại từ "No"</summary>
 
-        - Hàm ý phủ định với đại từ "No" sẽ mang lại nhiều cảm xúc **tiêu cực** hơn
-
-            I don't know **anything** about competitions
-
-            I know **nothing** about competitions
+        - Hàm ý phủ định với đại từ `No` sẽ mang lại nhiều cảm xúc `tiêu cực` hơn     
+        I don't know **anything** about competitions        
+        I know **nothing** about competitions
         </details>
 
 ### 7. Parts of speech (Các loại từ trong tiếng Anh)
@@ -453,21 +446,18 @@
     <details>
     <summary>Increase: danh từ và động từ</summary>
 
-    Price *inscreased* - Động từ
-    
-    An *increase* in sales - Danh từ
+    Price **inscreased**        - Động từ      
+    An **increase** in sales    - Danh từ
     </details>
 
 1. Danh từ
     <details>
     <summary>Dùng để gọi **tên** người, vật, địa điểm hoặc ý tưởng</summary>
 
-        Ví dụ: Chi, Nam, Hanoi, London, target, tennis ball, golf player...
+    Ví dụ: Chi, Nam, Hanoi, London, target, tennis ball, golf player...
 
-    **Nam** is a **volleyball player**
-
-    Is **London** a place for extreme **sports**?
-
+    **Nam** is a **volleyball player**      
+    Is **London** a place for extreme **sports**?       
     I must hit the **target** to win the **game**
     </details>
 
