@@ -476,63 +476,110 @@
 
 ### 7. Parts of speech (Các loại từ trong tiếng Anh)
 
-- Giải thích **cách sử dụng** các loại từ ngữ trong câu
 - Có **8 loại từ** chính: Danh từ, Đại từ, Tính từ, Động từ, Trạng từ, Giới từ, Liên từ và Thán từ
 - Các loại từ có thể chia thành các **nhóm nhỏ**: đại từ (đại từ nhân xưng, đại từ chỉ định...), danh từ (danh từ số ít, danh từ số nhiều...)
 - Một từ có thể là nhiều **loại từ**
-  **Increase**: danh từ và động từ
+    <details>
+    <summary>Increase: danh từ và động từ</summary>
+
     Price *inscreased* - Động từ
+    
     An *increase* in sales - Danh từ
+    </details>
 
 1. Danh từ
-    Dùng để gọi **tên** người, vật, địa điểm hoặc ý tưởng
-    Ví dụ: Chi, Nam, Hanoi, London, target, tennis ball, golf player...
+    <details>
+    <summary>Dùng để gọi **tên** người, vật, địa điểm hoặc ý tưởng</summary>
+
+        Ví dụ: Chi, Nam, Hanoi, London, target, tennis ball, golf player...
+
     **Nam** is a **volleyball player**
+
     Is **London** a place for extreme **sports**?
+
     I must hit the **target** to win the **game**
+    </details>
 
 2. Đại từ
-   Dùng để **xưng hô, chỉ** vào sự vật, sự việc và **thay thế** danh từ, cụm danh từ để tránh lặp từ
-   Ví dụ: I, you, he, she, it, them, him, her, this, that, those...
-   **Nam** is a volleyball player, **he** plays for my team
-   Is **London** a place for extreme sports? I am living in **that** city
+    <details>
+    <summary>Dùng để **xưng hô, chỉ** vào sự vật, sự việc và **thay thế** danh từ, cụm danh từ để tránh lặp từ</summary>
+
+    Ví dụ: I, you, he, she, it, them, him, her, this, that, those...
+    
+    **Nam** is a volleyball player, **he** plays for my team
+
+    Is **London** a place for extreme sports? I am living in **that** city
+    </details>
 
 3. Tính từ
-   Dùng để **miêu tả, mô phỏng, bổ sung thông tin** cho danh từ hoặc đại từ
-   Ví dụ: Big, small, happy, sad, blue, pink, young, old...
-   They are **professional** Olympic divers
-   Nam has a pair of **big red** boxing gloves
+    <details>
+    <summary>Dùng để **miêu tả, mô phỏng, bổ sung thông tin** cho danh từ hoặc đại từ</summary>
+
+    Ví dụ: Big, small, happy, sad, blue, pink, young, old...
+
+    They are **professional** Olympic divers
+
+    Nam has a pair of **big red** boxing gloves
+    </details>
+
 4. Động từ
-   Từ để thể hiện **hành động** hoặc một **trạng thái**
-   Một động từ thể hiên một ai đó dang làm gì đó
-   Ví dụ: run, speed, talk, write, play...
-   He is **playing** as a goalkeeper in this soccer match
+    <details>
+    <summary>Từ để thể hiện **hành động** hoặc một **trạng thái**</summary>
+
+    Một động từ thể hiên một ai đó dang làm gì đó
+
+    Ví dụ: run, speed, talk, write, play...
+
+    He is **playing** as a goalkeeper in this soccer match
+    </details>
 
 5. Trạng từ
-   Từ để **miêu tả, mô phỏng** cho động từ, tính từ hoặc trạng từ khác
-   Thường kết thúc bằng đuôi **-ly**
-   Ví dụ: quickly, loudly, happily, sadly, very, always, tomorrow, here, there...
-   They cheered **loudly** for that solid defense **yesterday**
-   He ran **quickly** to be **there** on time
+    <details>
+    <summary>Từ để **miêu tả, mô phỏng** cho động từ, tính từ hoặc trạng từ khác</summary>
+
+    Thường kết thúc bằng đuôi **-ly**
+
+    Ví dụ: quickly, loudly, happily, sadly, very, always, tomorrow, here, there...
+
+    They cheered **loudly** for that solid defense **yesterday**
+
+    He ran **quickly** to be **there** on time
+    </details>
 
 6. Giới từ
-   Từ để thể hiện sự **liên quan** của danh từ/ đại từ với từ khác
-   Có thể chỉ thời gian, địa điểm hoặc quan hệ
-   Ví dụ: at, on, in, from, with, near, between, about, under...
-   Chi passes **on** the baton **for** her teammate **in** the relay race
-   The ball flew **into** the hole
+    <details>
+    <summary>Từ để thể hiện sự **liên quan** của danh từ/ đại từ với từ khác</summary>
+
+    Có thể chỉ thời gian, địa điểm hoặc quan hệ
+
+    Ví dụ: at, on, in, from, with, near, between, about, under...
+
+    Chi passes **on** the baton **for** her teammate **in** the relay race
+
+    The ball flew **into** the hole
+    </details>
 
 7. Liên từ
-   Dùng để kết nối 2 từ, ý tưởng, cụm từ hoặc mệnh đề với nhau trong một câu để thể hiện sự kết nối
-   Ví dụ: and, or, because, but, so, unless, since...
-   Chi passes on the baton for her teammate in the replay race **and** that person runs toward the finishing line
-   **If** they score one more points, they will win the game
+    <details>
+    <summary>Dùng để kết nối 2 từ, ý tưởng, cụm từ hoặc mệnh đề với nhau trong một câu để thể hiện sự kết nối</summary>
+
+    Ví dụ: and, or, because, but, so, unless, since...
+
+    Chi passes on the baton for her teammate in the replay race **and** that person runs toward the finishing line
+
+    **If** they score one more points, they will win the game
+    </details>
 
 8. Thán từ
-   Dùng để thể hiện cảm xúc mảnh liệt một cách ngắn gọn
-   Ví dụ: Yes! Wow! Great! Help! Oh! Hey! Hi!
-   **Ouch!** He hit me eith baseball bat
-   **Hi!** I saw you in that boxing game last night 
+    <details>
+    <summary>Dùng để thể hiện cảm xúc mảnh liệt một cách ngắn gọn</summary>
+
+    Ví dụ: Yes! Wow! Great! Help! Oh! Hey! Hi!
+
+    **Ouch!** He hit me eith baseball bat
+
+    **Hi!** I saw you in that boxing game last night 
+    </details>
 
 ### 8. Conjunctions (Liên từ)
 
