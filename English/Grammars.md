@@ -118,10 +118,9 @@
     Seeing my daughter playing with her dog reminds `me` of `myself` when I was small
     <br>
 
-    I am studying English all by `myself` 
-    We cook `ourselves` dinner
-
-    You should prepare `yourself` before the final exam     
+    I am studying English all by `myself`   
+    We cook `ourselves` dinner  
+    You should prepare `yourself` before the final exam 
     You guys should choose the topic for the assignment `yourselves`
     </details>
 
