@@ -42,7 +42,7 @@
 3. Đại từ tân ngữ
     <details>
     <summary>Cũng là đại từ nhân xưng nhưng chúng *không được làm chủ ngữ* - Chỉ làm *tân ngữ* hoặc *bổ ngữ*</summary>
-        
+
     - **I** would love to get **me** an ice cream
     - Do **you** remember that **you** have homework today?
     - Hey **Trang**, Chi tells **us** to pick up some apples on the way home
@@ -54,7 +54,7 @@
 4. Lưu ý
     <details>
     <summary>Nên thêm danh từ khi đi cùng với đại từ nhân xưng để chỉ rõ từ đó đang nhắc tới ai, cái gì</summary>
-        
+
     - You **girls** should get going now  
     - We **doctors** like to sing
     </details>
@@ -108,21 +108,20 @@
     <details>
     <summary>Động từ + Đại từ phản thân + Tân ngữ</summary>
 
-    Khi ta đang làm gì đó cho chính bản thân mình
+    *Khi ta đang làm gì đó cho chính bản thân mình*
     - I **knit** myself **a sweater**
     </details>
 
     <details>
     <summary>Động từ + Tân ngữ + Đại từ phản thân</summary>
         
-    Nhấn mạnh rằng không ai khác đã giúp đỡ hay làm việc đó
+    *Nhấn mạnh rằng không ai khác đã giúp đỡ hay làm việc đó*
     - He **talks** to **his boss** himself about a promotion
     </details>
 
     <details>
     <summary>by + myself/yourself/himself/herself</summary>
-        
-    Nhấn mạnh việc chỉ có một mình và không ở cùng một ai khác      
+    *Nhấn mạnh việc chỉ có một mình và không ở cùng một ai khác *     
     - Chi goes to the party **by herself**
     </details>
 
