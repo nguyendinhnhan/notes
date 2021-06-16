@@ -28,52 +28,63 @@
 
     Put `Linh` on the phone and tell `her` to bring some water
     
-    I have told **her**, but I don't know if **she** remembers
+    I have told `her`, but I don't know if `she` remembers
     </details>
     <br>
 2. Đại từ nhân xưng chủ ngữ
     <details>
     <summary>Dùng cho người nói, người nghe, khi người hoặc vật được nhắc tới - Chỉ dùng để làm *chủ ngữ*</summary>
         
-        *I* will see you tomorrow
-        *We* are friends
-        *You* look lovely today
-        Ask *Thanh* if he likes to come to our party
-        What does *she* like to eat?
+    `I` will see you tomorrow
+
+    `We` are friends
+
+    `You` look lovely today
+
+    Ask `Thanh` if he likes to come to our party
+    What does `she` like to eat?
     </details>
     <br>
 3. Đại từ tân ngữ
     <details>
     <summary>Cũng là đại từ nhân xưng nhưng chúng *không được làm chủ ngữ* - Chỉ làm *tân ngữ* hoặc *bổ ngữ*</summary>
         
-        *I* would love to get *me* an ice cream
-        Do *you* remember that *you* have homework today?
-        Hey *Trang*, Chi tells *us* to pick up some apples on the way home
-        *Nam* is standing near the door, tell *him* to open it
-        Look at *my car*, *it* has shiny mirrors
-        Tell *them* your name
+    `I` would love to get `me` an ice cream
+
+    Do `you` remember that `you` have homework today?
+
+    Hey `Trang`, Chi tells `us` to pick up some apples on the way home
+
+    `Nam` is standing near the door, tell `him` to open it
+
+    Look at `my car`, `it` has shiny mirrors
+
+    Tell `them` your name
     </details>
     <br>
 4. Lưu ý
     <details>
     <summary>Nên thêm danh từ khi đi cùng với đại từ nhân xưng để chỉ rõ từ đó đang nhắc tới ai, cái gì</summary>
         
-        You *girls* should get going now
-        We *doctors* like to sing
+    You `girls` should get going now
+
+    We `doctors` like to sing
     </details>
 
     <details>
     <summary>Đại từ tân ngữ chỉ được dùng khi ta đã biết rõ danh từ được thay thế đó là gì</summary>
 
-        That is *Ms. Chi*, I met *her* yesterday
-        Oh no my *cell phone*, *it* is broken
+    That is `Ms. Chi`, I met `her` yesterday
+    
+    Oh no my `cell phone`, `it` is broken
     </details>
 
     <details>
     <summary>Khi chỉ đồ vật, con vật hoặc danh từ trừu tượng mà không phải chỉ người</summary>
 
-        Ta có thể sử dụng đại từ "they/them, he/his, she/her" nếu xác định giới tính 
-        *My cat* purrs everytime I pet *him*
+    Ta có thể sử dụng đại từ `they/them, he/his, she/her` nếu xác định giới tính 
+    
+    `My cat` purrs everytime I pet `him`
     </details>
     <br>
 
@@ -96,18 +107,24 @@
     <details>
     <summary>Là đại từ đặc biệt để dùng khi *chủ ngữ* và *tân ngữ* hoặc *bổ ngữ* là một</summary>
 
-        *She* bought a present for *herself*
+    `She` bought a present for `herself`
 
-        - Nhấn mạnh chủ ngữ 
-        *Chi Pu* gives me her autograph *herself*
+    - Nhấn mạnh chủ ngữ
+    
+    `Chi Pu` gives me her autograph `herself`
 
-        - Trong một vài trường hợp, dùng khi mang lại ý nghĩa, trường hợp tương tự
-        Seeing my daughter playing with her dog reminds *me* of *myself* when I was small
+    - Trong một vài trường hợp, dùng khi mang lại ý nghĩa, trường hợp tương tự
+    
+    Seeing my daughter playing with her dog reminds `me` of `myself` when I was small
+    <br>
 
-        I am studying English all by myself
-        We cook ourselves dinner
-        You should prepare yourself before the final exam
-        YOu guys should choose the topic for the assignment yourselves
+    I am studying English all by `myself`
+
+    We cook `ourselves` dinner
+
+    You should prepare `yourself` before the final exam
+
+    You guys should choose the topic for the assignment `yourselves`
     </details>
 
     <details>
