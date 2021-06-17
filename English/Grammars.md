@@ -148,8 +148,8 @@
     <details>
     <summary>Phân biệt Ourselves, Themselves và Each Other</summary><p>
         
-    - Ta dùng `Each Other` để tả 2 hay nhiều người hoặc vật đang làm cùng một hành động `lên người khác`      
-    - Còn `Ourselves, Themselves` để tả 2 hay nhiều người hoặc vật làm cùng một hành động `lên chính họ`      
+    - *Ta dùng `Each Other` để tả 2 hay nhiều người hoặc vật đang làm cùng một hành động `lên người khác`*      
+        *Còn `Ourselves, Themselves` để tả 2 hay nhiều người hoặc vật làm cùng một hành động `lên chính họ`*      
 
         Chi and Huy bought **each other** presents    - Chi mua quà cho Huy và ngược lại      
         Chi and Huy bought **themselves** presents    - Chi mua quà cho Chi và tương tự
@@ -164,14 +164,17 @@
     <summary>This/These (gần) - That/Those (xa)</summary><p>
 
     - *`This` (số ít) và `these` (số nhiều) khi nhắc đến cáo có mặt `tại/gần (trong tầm với)` địa điểm nói*     
+        
         **This** is my pineapple        
         **These** are my oranges
 
     - *`That` (số ít) và `those` (số nhiều) khi nhắc đến cái gì có mặt `xa (ngoài tầm với)` địa điểm nói*       
+        
         **That** is my box of fruit juice           
         **Those** are the avocados that I bought
 
     - *Đại từ chỉ định có thể đứng một mình trong câu `thay thế cho danh từ`*       
+        
         Are you going to buy **that**?      
         I cannot fix **these**, they are broken
     </details>
@@ -223,7 +226,8 @@
     <details>
     <summary>Được dùng để TRÁNH LẶP LẠI thông tin đã vô cùng rõ ràng</summary><p>
 
-    - Tránh câu nói bị rối vì một thông tin bị nhắc lại nhiều lần       
+    - *Tránh câu nói bị rối vì một thông tin bị nhắc lại nhiều lần*       
+        
         **This bag** is **my bag**, not **your bag**
         **This bag** is **mine**,   not **yours**
 
@@ -238,6 +242,7 @@
     - *Tránh dùng từ `Its` trong đại từ sở hữu*      
     - *Đại từ sở hữu không đi với sở hữu cách `'s`*
     - *`Of + đại từ sở hữu`: để nói về bạn của ai đó*       
+        
         She is no friend **of mine**       
         She is not my friend
     </details>
@@ -279,6 +284,7 @@
 
     - *Dùng `What` khi `không có` giới hạn các sự lựa chọn*       
         *Dùng `Which` khi `có` giới hạn các sự lựa chọn*       
+        
         **What** shoes should I wear during summer?     
         **Which** shoes should I wear during summer - slippers or sneakers? 
     </details>
@@ -288,6 +294,7 @@
     <summary>Để hỏi thông tin về NGƯỜI = Câu trả lời sẽ là các CHỦ NGỮ</summary><p>
 
     - *Được dùng thông thường hơn Whom*        
+        
         **Who** is feeling under the weather? - Ai cảm thấy không khoẻ dưới thời tiết này?      
         It was **Chi**, she was a bit under the weather today
     </details>
@@ -297,6 +304,7 @@
     <summary>Để hỏi thông tin về NGƯỜI = Câu trả lời sẽ là các TÂN NGỮ</summary><p>
         
     - *Ít được dùng trong văn nói hơn Who*       
+        
         **Whom** should I talk to about my son's temperature?              
         You should talk to **him**, he is our doctor.
     </details>
@@ -348,6 +356,7 @@
     <summary>How + tính từ</summary><p>
     
     - *Để hỏi về `mức độ` của một `thuộc tính`*       
+        
         **How cold** is the weather during Winter? - Vào mùa đông thời tiết thường lạnh như thế nào nhỉ?        
         **How tall** are you? - Bạn cao bao nhiêu?      
         **How far** is the North Pole? - Bắc cực cách bao xa?       
@@ -357,6 +366,7 @@
     <summary>How + often</summary><p>
     
     - *Để hỏi về `tần suất, mức độ` của `hành động`*      
+        
         **How often** do they go jogging in Spring? - Vào mùa xuân thì tần suất đi bộ của họ là bao nhiêu?      
         **How often** does rainbow appear? - Tần suất xuất hiện của cầu vồng là bao nhiêu?  
     </details>
@@ -365,6 +375,7 @@
     <summary>How + much</summary><p>
     
     - *Để hỏi về số lượng, giá cả: dùng cho `danh từ không đếm được`*       
+        
         **How much** time do you need to goto work? - Bạn cần bao nhiêu thời gian để đi làm?        
         **How much** are these sweaters? - Những chiếc áo len này giá bao nhiêu?        
         **How much** milk does she need to bake? - Cô ấy cần bao nhiêu sữa để làm bánh?     
@@ -374,6 +385,7 @@
     <summary>How + many</summary><p>
     
     - *Để hỏi về số lượng: dùng cho `danh từ đếm được`*     
+        
         **How many** seasons are there in a year? - Có bao nhiêu mùa trong một năm?     
         **How many** sweaters do you want to buy? - Bạn muốn mua bao nhiêu cái áo len?      
     </details>
@@ -383,6 +395,7 @@
 
     - *`What`  - hỏi về `bản chất` vật/việc/người đang được hỏi*        
         *`How`   - hỏi về `ý kiến` chủ quan/`cảm giác` của người đang được hỏi*       
+        
         **What** is the weather like?   - It is foggy/rainy/sunny...        
         **How** is the weather?         - It is terrible/lovely/nice...
     </details>
@@ -428,14 +441,14 @@
     <details>
     <summary>Câu khẳng định - Some, Every, Any, No</summary><p>
 
-    - Some = số lượng bất định       
+    - *Some = số lượng bất định*       
         **Something** in that house is broken, it keeps making noise    
 
-    - Every = toàn bộ (số lượng) ~ Any = bất cứ      
+    - *Every = toàn bộ (số lượng) ~ Any = bất cứ*      
         **Everyone** in my team wants to become trainers
         **Anybody** in my team can become trainers
 
-    - No = Không có (số lượng) - Làm câu khẳng định mang ý nghĩa tiêu cực        
+    - *No = Không có (số lượng) - Làm câu khẳng định mang ý nghĩa tiêu cực*        
         **Nowhere** is safe
     </details>
     
@@ -444,6 +457,7 @@
 
     - *Câu phủ định chỉ được tạo bởi từ `any` - Câu khẳng định mang hàm ý phủ định với đại từ `no`*       
         *Hàm ý phủ định với đại từ `No` sẽ mang lại nhiều cảm xúc `tiêu cực` hơn*     
+
         I don't know **anything** about competitions        
         I know **nothing** about competitions
     </details>
@@ -496,6 +510,7 @@
     <summary>Từ để thể hiện HÀNH ĐỘNG hoặc một TRẠNG THÁI</summary><p>
 
     - *Một động từ thể hiên một ai đó dang làm gì đó*       
+
         *run, speed, talk, write, play...*     
 
         He is **playing** as a goalkeeper in this soccer match
@@ -506,6 +521,7 @@
     <summary>Từ để MIÊU TẢ, MÔ PHỎNG cho động từ, tính từ hoặc trạng từ khác</summary><p>
 
     - *Thường kết thúc bằng đuôi `-ly`*       
+
         *quickly, loudly, happily, sadly, very, always, tomorrow, here, there...*      
 
         They cheered **loudly** for that solid defense **yesterday**        
@@ -517,6 +533,7 @@
     <summary>Từ để thể hiện sự LIÊN QUAN của danh từ/ đại từ với từ khác</summary><p>
 
     - *Có thể chỉ thời gian, địa điểm hoặc quan hệ*     
+
         *at, on, in, from, with, near, between, about, under...*       
 
         Chi passes **on** the baton **for** her teammate **in** the relay race      
@@ -563,7 +580,8 @@
     <summary>Liên từ KẾT HỢP - Coordinate conjunctions</summary><p>
 
     - *Nối các từ, nhóm từ, mệnh đề hoặc ác câu `cùng loại ngữ pháp` với nhau*        
-        *for, and, nor, but, or, yet, so... `(FANBOYS)`*
+
+        *for, and, nor, but, or, yet, so... `(FANBOYS)`*        
 
         I need to put on my shoes, **so** I wear a pair of socks beforehand         
         I have to choose a skirt **or** a pair of jeans, I haven't decided **yet**
@@ -573,7 +591,8 @@
     <summary>Liên từ TƯƠNG QUAN - Correlative Conjunctions</summary><p>
 
     - *Là các `cặp liên từ` luôn đi với nhau*     
-        *either... or, neither... nor, not only... but also*
+
+        *either... or, neither... nor, not only... but also*        
 
         Choose **either** this dress **or** that pair of trousers       
         That glasses were **neither** pretty **nor** clear      
@@ -584,6 +603,7 @@
     <summary>Liên từ PHỤ THUỘC - Subordinate Conjunctions</summary><p>
 
     - *Kết hợp một mệnh đề `phụ` với một mệnh đề `chính`*     
+
         *because, since, as, although, though, while, whereas...*     
 
         The cat hurries into the house **as** I close the door 
@@ -652,8 +672,7 @@
         **Gender equality** is a hot issue - Bình đẳng giới tính là vấn đề nóng     
         I like **Korean food**
 
-    - *Tên `người, sách, vở kịch`*        
-        *(trừ khi mạo từ nằm trong tiêu đề)*
+    - *Tên `người, sách, vở kịch` (trừ khi mạo từ nằm trong tiêu đề)*        
         I love to read **Harry Potter**
 
     - *Tên `thị trấn, thành phố, bang và đất nước`*     
