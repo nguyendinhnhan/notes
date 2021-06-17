@@ -53,7 +53,7 @@
 
 4. Lưu ý
     <details>
-    <summary>Nên thêm danh từ khi đi cùng với đại từ nhân xưng để chỉ rõ từ đó đang nhắc tới ai, cái gì</summary><p>
+    <summary>Nên THÊM DANH TỪ khi đi cùng với đại từ nhân xưng ĐỂ CHỈ RÕ từ đó đang nhắc tới ai, cái gì</summary><p>
 
     - You **girls** should get going now  
     - We **doctors** like to sing
@@ -69,8 +69,8 @@
     <details>
     <summary>Khi chỉ đồ vật, con vật hoặc danh từ trừu tượng mà không phải chỉ người</summary><p>
    
-    *Ta có thể sử dụng đại từ `they/them, he/his, she/her` nếu xác định giới tính*        
-    - **My cat** purrs everytime I pet **him**
+    - *Ta có thể sử dụng đại từ `they/them, he/his, she/her` nếu xác định giới tính*        
+        **My cat** purrs everytime I pet **him**
     </details>
 
 ### 2. Reflexive Pronouns (Đại từ phản thân)
@@ -130,7 +130,7 @@
     <details>
     <summary>Khi nào không nên dùng</summary><p>
         
-    - Một số động từ hiếm khi hoặc không dùng đại từ phản thân vì những từ này bắt nguồn từ tiếng khác:
+    - *Một số động từ hiếm khi hoặc không dùng đại từ phản thân vì những từ này bắt nguồn từ tiếng khác:*
 
         |             |              |     |          |              |
         | ----------: | ------------ | --- | -------: | ------------ |
@@ -141,8 +141,8 @@
         |    remember | - nhớ        |     |    shave | - cạo        |
         |      shower | - tắm        |     | sit down | - ngồi xuống |
 
-    - Khi đi cùng giới từ chỉ `địa điểm` hoặc `vị trí`, ta dùng `đại từ nhân xưng`, không dùng đại từ phản thân     
-    She puts the books next to **her**
+    - *Khi đi cùng giới từ chỉ `địa điểm` hoặc `vị trí`, ta dùng `đại từ nhân xưng`, không dùng đại từ phản thân*     
+        She puts the books next to **her**
     </details>
 
     <details>
@@ -163,15 +163,15 @@
     <details>
     <summary>This/These (gần) - That/Those (xa)</summary><p>
 
-    - `THIS` (số ít) và `THESE` (số nhiều) khi nhắc đến cáo có mặt `tại/gần (trong tầm với)` địa điểm nói     
+    - *`This` (số ít) và `these` (số nhiều) khi nhắc đến cáo có mặt `tại/gần (trong tầm với)` địa điểm nói*     
         **This** is my pineapple        
         **These** are my oranges
 
-    - `THAT` (số ít) và `THOSE` (số nhiều) khi nhắc đến cái gì có mặt `xa (ngoài tầm với)` địa điểm nói       
+    - *`That` (số ít) và `those` (số nhiều) khi nhắc đến cái gì có mặt `xa (ngoài tầm với)` địa điểm nói*       
         **That** is my box of fruit juice           
         **Those** are the avocados that I bought
 
-    - Đại từ chỉ định có thể đứng một mình trong câu `thay thế cho danh từ`       
+    - *Đại từ chỉ định có thể đứng một mình trong câu `thay thế cho danh từ`*       
         Are you going to buy **that**?      
         I cannot fix **these**, they are broken
     </details>
@@ -190,10 +190,10 @@
     <details>
     <summary>This/these (hiện tại) - That/those (quá khứ)</summary><p>
 
-    - Nếu hành động, sự việc `chưa kết thúc` hoặc xảy ra trong `thời gian gần` thì ta dùng `this/these`       
+    - *Nếu hành động, sự việc `chưa kết thúc` hoặc xảy ra trong `thời gian gần` thì ta dùng `this/these`*       
         **This** is a good meal
 
-    - Nếu hành động `đã kết thúc` hoặc nó ở `quá khứ` ta dùng `that/those`        
+    - *Nếu hành động `đã kết thúc` hoặc nó ở `quá khứ` ta dùng `that/those`*        
         I forgot that I bought **those** coffee beans yesterday
     </details>
 
@@ -235,9 +235,9 @@
     + These are my textbooks and those are **theirs**
 
     Lưu ý:
-    - Tránh dùng từ `Its` trong đại từ sở hữu      
-    - Đại từ sở hữu không đi với sở hữu cách `'s`
-    - `Of + đại từ sở hữu`: để nói về bạn của ai đó       
+    - *Tránh dùng từ `Its` trong đại từ sở hữu*      
+    - *Đại từ sở hữu không đi với sở hữu cách `'s`*
+    - *`Of + đại từ sở hữu`: để nói về bạn của ai đó*       
         She is no friend **of mine**       
         She is not my friend
     </details>
@@ -277,8 +277,8 @@
     <details>
     <summary>What - Which</summary><p>
 
-    - Dùng `What` khi `không có` giới hạn các sự lựa chọn
-    - Dùng `Which` khi `có` giới hạn các sự lựa chọn       
+    - *Dùng `What` khi `không có` giới hạn các sự lựa chọn*       
+        *Dùng `Which` khi `có` giới hạn các sự lựa chọn*       
         **What** shoes should I wear during summer?     
         **Which** shoes should I wear during summer - slippers or sneakers? 
     </details>
@@ -287,7 +287,7 @@
     <details>
     <summary>Để hỏi thông tin về NGƯỜI = Câu trả lời sẽ là các CHỦ NGỮ</summary><p>
 
-    - Được dùng thông thường hơn        
+    - *Được dùng thông thường hơn Whom*        
         **Who** is feeling under the weather? - Ai cảm thấy không khoẻ dưới thời tiết này?      
         It was **Chi**, she was a bit under the weather today
     </details>
@@ -296,7 +296,7 @@
     <details>
     <summary>Để hỏi thông tin về NGƯỜI = Câu trả lời sẽ là các TÂN NGỮ</summary><p>
         
-    - Ít được dùng trong văn nói       
+    - *Ít được dùng trong văn nói hơn Who*       
         **Whom** should I talk to about my son's temperature?              
         You should talk to **him**, he is our doctor.
     </details>
@@ -315,7 +315,7 @@
 
     **Why** is London called the city of fog? - Tại sao Luân Đôn lại được gọi là thành phố sương mù?
 
-    - Thường câu trả lời sẽ bắt đầu bằng `Because`      
+    - *Thường câu trả lời sẽ bắt đầu bằng `Because`*      
         Why does drought affect agriculture? - Tại sao hạn hán lại ảnh hưởng đến nông nghiệp?
     </details>
 
@@ -347,7 +347,7 @@
     <details>
     <summary>How + tính từ</summary><p>
     
-    - Để hỏi về `mức độ` của một `thuộc tính`       
+    - *Để hỏi về `mức độ` của một `thuộc tính`*       
         **How cold** is the weather during Winter? - Vào mùa đông thời tiết thường lạnh như thế nào nhỉ?        
         **How tall** are you? - Bạn cao bao nhiêu?      
         **How far** is the North Pole? - Bắc cực cách bao xa?       
@@ -356,7 +356,7 @@
     <details>
     <summary>How + often</summary><p>
     
-    - Để hỏi về `tần suất, mức độ` của `hành động`      
+    - *Để hỏi về `tần suất, mức độ` của `hành động`*      
         **How often** do they go jogging in Spring? - Vào mùa xuân thì tần suất đi bộ của họ là bao nhiêu?      
         **How often** does rainbow appear? - Tần suất xuất hiện của cầu vồng là bao nhiêu?  
     </details>
@@ -364,7 +364,7 @@
     <details>
     <summary>How + much</summary><p>
     
-    - Để hỏi về số lượng, giá cả: dùng cho `danh từ không đếm được`       
+    - *Để hỏi về số lượng, giá cả: dùng cho `danh từ không đếm được`*       
         **How much** time do you need to goto work? - Bạn cần bao nhiêu thời gian để đi làm?        
         **How much** are these sweaters? - Những chiếc áo len này giá bao nhiêu?        
         **How much** milk does she need to bake? - Cô ấy cần bao nhiêu sữa để làm bánh?     
@@ -373,7 +373,7 @@
     <details>
     <summary>How + many</summary><p>
     
-    - Để hỏi về số lượng: dùng cho `danh từ đếm được`     
+    - *Để hỏi về số lượng: dùng cho `danh từ đếm được`*     
         **How many** seasons are there in a year? - Có bao nhiêu mùa trong một năm?     
         **How many** sweaters do you want to buy? - Bạn muốn mua bao nhiêu cái áo len?      
     </details>
@@ -381,8 +381,8 @@
     <details>
     <summary>What và How</summary><p>
 
-    - `What`  - hỏi về `bản chất` vật/việc/người đang được hỏi
-    - `How`   - hỏi về `ý kiến` chủ quan/`cảm giác` của người đang được hỏi       
+    - *`What`  - hỏi về `bản chất` vật/việc/người đang được hỏi*        
+        *`How`   - hỏi về `ý kiến` chủ quan/`cảm giác` của người đang được hỏi*       
         **What** is the weather like?   - It is foggy/rainy/sunny...        
         **How** is the weather?         - It is terrible/lovely/nice...
     </details>
@@ -396,77 +396,75 @@
 | Một phần<br>*(câu phủ định, bất định)* | Anybody  <br>Anyone   | Anywhere   | Anything   |
 | Không có                               | Nobody   <br>No one   | Nowhere    | Nothing    |
 
-   1. Định nghĩa
-       <details>
-       <summary>Là những từ không chỉ cụ thể đến người hay vật nào đó mà chỉ nói một cách CHUNG CHUNG</summary><p>
+1. Định nghĩa
+    <details>
+    <summary>Là những từ không chỉ cụ thể đến người hay vật nào đó mà chỉ nói một cách CHUNG CHUNG</summary><p>
 
-       - Do you play sport with **anybody** in your class?
-       - **No one** in my class is flexible
-       - There must be **somewhere** we can play soccer
-       - I have to prepare **everything** before the big race this December
-       </details>
+    - Do you play sport with **anybody** in your class?
+    - **No one** in my class is flexible
+    - There must be **somewhere** we can play soccer
+    - I have to prepare **everything** before the big race this December
+    </details>
 
-   2. Nguyên tắc khi dùng đại từ bất định
-       <details>
-       <summary>Đều chia với động từ số ít</summary><p>
-       
-       - Somebody **is** running through the windows
-       - Nothing ever **goes** as planned
-       - Anywhere with you **is** home
-       - Everything **happens** for a reason
-       </details>
+2. Nguyên tắc khi dùng đại từ bất định
+    <details>
+    <summary>Đều chia với động từ SỐ ÍT</summary><p>
+    
+    - Somebody **is** running through the windows
+    - Nothing ever **goes** as planned
+    - Anywhere with you **is** home
+    - Everything **happens** for a reason
+    </details>
 
-       <details>
-       <summary>Đều chỉ danh từ số nhiều - Trừ những đại từ chứa từ THING</summary><p>
-           
-       - **Somebody** lost **their** uniforms        
-       - **Nothing** ever goes as planned, **does** it?      
-       - **Everyone** tried to stay healthy during holidays. **They** went to the gym
-       </details>
+    <details>
+    <summary>Đều chỉ danh từ số nhiều - Trừ những đại từ chứa từ THING</summary><p>
+        
+    - **Somebody** lost **their** uniforms        
+    - **Nothing** ever goes as planned, **does** it?      
+    - **Everyone** tried to stay healthy during holidays. **They** went to the gym
+    </details>
 
+3. Cách đặt câu với đặt từ bất định
+    <details>
+    <summary>Câu khẳng định - Some, Every, Any, No</summary><p>
 
-   3. Cách đặt câu với đặt từ bất định
-      - Câu khẳng định
-           <details>
-           <summary>Some, Every, Any, No</summary><p>
+    - Some = số lượng bất định       
+        **Something** in that house is broken, it keeps making noise    
 
-           - Some = số lượng bất định       
-               **Something** in that house is broken, it keeps making noise    
+    - Every = toàn bộ (số lượng) ~ Any = bất cứ      
+        **Everyone** in my team wants to become trainers
+        **Anybody** in my team can become trainers
 
-           - Every = toàn bộ (số lượng) ~ Any = bất cứ      
-               **Everyone** in my team wants to become trainers
-               **Anybody** in my team can become trainers
+    - No = Không có (số lượng) - Làm câu khẳng định mang ý nghĩa tiêu cực        
+        **Nowhere** is safe
+    </details>
+    
+    <details>
+    <summary>Câu phủ định, nghi vấn - Any, No</summary><p>
 
-           - No = Không có (số lượng) - Làm câu khẳng định mang ý nghĩa tiêu cực        
-               **Nowhere** is safe
-           </details>
-       
-      - Câu phủ định, nghi vấn
-           <details>
-           <summary>Câu phủ định chỉ được tạo bởi từ ANY - Câu khẳng định mang hàm ý phủ định với đại từ NO</summary><p>
-
-           - Hàm ý phủ định với đại từ `No` sẽ mang lại nhiều cảm xúc `tiêu cực` hơn     
-               I don't know **anything** about competitions        
-               I know **nothing** about competitions
-           </details>
+    - *Câu phủ định chỉ được tạo bởi từ `any` - Câu khẳng định mang hàm ý phủ định với đại từ `no`*       
+        *Hàm ý phủ định với đại từ `No` sẽ mang lại nhiều cảm xúc `tiêu cực` hơn*     
+        I don't know **anything** about competitions        
+        I know **nothing** about competitions
+    </details>
 
 ### 7. Parts of speech (Các loại từ trong tiếng Anh)
 
 - Có `8 loại từ` chính: Danh từ, Đại từ, Tính từ, Động từ, Trạng từ, Giới từ, Liên từ và Thán từ
 - Các loại từ có thể chia thành các `nhóm nhỏ`: đại từ (đại từ nhân xưng, đại từ chỉ định...), danh từ (danh từ số ít, danh từ số nhiều...)
-- Một từ có thể là nhiều `loại từ`
-    <details>
-    <summary>Increase: danh từ và động từ</summary><p>
 
-    - Price **inscreased**        - Động từ      
-    - An **increase** in sales    - Danh từ
-    </details>
+<details>
+<summary>Một từ có thể là nhiều LOẠI TỪ - Increase: danh từ và động từ</summary><p>
+
+- Price **inscreased**        - Động từ      
+- An **increase** in sales    - Danh từ
+</details>
 
 1. Danh từ
     <details>
     <summary>Dùng để gọi TÊN người, vật, địa điểm hoặc ý tưởng</summary><p>
 
-    Ví dụ: Chi, Nam, Hanoi, London, target, tennis ball, golf player...
+    *Chi, Nam, Hanoi, London, target, tennis ball, golf player...*
 
     - **Nam** is a **volleyball player**
     - Is **London** a place for extreme **sports**?
@@ -477,7 +475,7 @@
     <details>
     <summary>Dùng để XƯNG HÔ, CHỈ vào sự vật, sự việc và THAY THẾ danh từ, cụm danh từ để tránh lặp từ</summary><p>
 
-    Ví dụ: I, you, he, she, it, them, him, her, this, that, those...
+    *I, you, he, she, it, them, him, her, this, that, those...*
     
     - **Nam** is a volleyball player, **he** plays for my team
     - Is **London** a place for extreme sports? I am living in **that** city
@@ -487,7 +485,7 @@
     <details>
     <summary>Dùng để MIÊU TẢ, MÔ PHỎNG, BỔ SUNG THÔNG TIN cho danh từ hoặc đại từ</summary><p>
 
-    Ví dụ: Big, small, happy, sad, blue, pink, young, old...
+    *Big, small, happy, sad, blue, pink, young, old...*
 
     - They are **professional** Olympic divers
     - Nam has a pair of **big red** boxing gloves
@@ -497,9 +495,9 @@
     <details>
     <summary>Từ để thể hiện HÀNH ĐỘNG hoặc một TRẠNG THÁI</summary><p>
 
-    - Một động từ thể hiên một ai đó dang làm gì đó
+    - *Một động từ thể hiên một ai đó dang làm gì đó*       
+        *run, speed, talk, write, play...*     
 
-        Ví dụ: run, speed, talk, write, play...     
         He is **playing** as a goalkeeper in this soccer match
     </details>
 
@@ -507,9 +505,8 @@
     <details>
     <summary>Từ để MIÊU TẢ, MÔ PHỎNG cho động từ, tính từ hoặc trạng từ khác</summary><p>
 
-    - Thường kết thúc bằng đuôi `-ly`       
-
-        Ví dụ: quickly, loudly, happily, sadly, very, always, tomorrow, here, there...
+    - *Thường kết thúc bằng đuôi `-ly`*       
+        *quickly, loudly, happily, sadly, very, always, tomorrow, here, there...*      
 
         They cheered **loudly** for that solid defense **yesterday**        
         He ran **quickly** to be **there** on time
@@ -519,9 +516,8 @@
     <details>
     <summary>Từ để thể hiện sự LIÊN QUAN của danh từ/ đại từ với từ khác</summary><p>
 
-    - Có thể chỉ thời gian, địa điểm hoặc quan hệ     
-
-        Ví dụ: at, on, in, from, with, near, between, about, under...
+    - *Có thể chỉ thời gian, địa điểm hoặc quan hệ*     
+        *at, on, in, from, with, near, between, about, under...*       
 
         Chi passes **on** the baton **for** her teammate **in** the relay race      
         The ball flew **into** the hole
@@ -531,7 +527,7 @@
     <details>
     <summary>Dùng để KẾT NỐI 2 từ, ý tưởng, cụm từ hoặc mệnh đề với nhau trong một câu để thể hiện sự LIÊN KẾT</summary><p>
 
-    Ví dụ: and, or, because, but, so, unless, since...
+    *and, or, because, but, so, unless, since...*
 
     - Chi passes on the baton for her teammate in the replay race **and** that person runs toward the finishing line
     - **If** they score one more points, they will win the game
@@ -541,7 +537,7 @@
     <details>
     <summary>Dùng để thể hiện CẢM XÚC mảnh liệt một cách ngắn gọn</summary><p>
 
-    Ví dụ: Yes! Wow! Great! Help! Oh! Hey! Hi!
+    *Yes! Wow! Great! Help! Oh! Hey! Hi!*
 
     - **Ouch!** He hit me eith baseball bat
     - **Hi!** I saw you in that boxing game last night 
@@ -553,10 +549,9 @@
     <details>
     <summary>Dùng để KẾT NỐI 2 từ, ý tưởng, cụm từ hoặc mệnh đề với nhau trong một câu để thể hiện sự LIÊN KẾT với nhau</summary><p>
     
-    Có thể là:
-    - `Từ đơn`: and, but, if, because, despite...
-    - `Cụm từ`: as soon as, in order to, in spite of...
-    - `Cặp từ`: either... or, not only... but also, both... and       
+    - *`Từ đơn`: and, but, if, because, despite...*
+    - *`Cụm từ`: as soon as, in order to, in spite of...*
+    - *`Cặp từ`: either... or, not only... but also, both... and*       
 
         **Despite** being tall, she still wears high heels everyday     
         Nam puts on a raincoat **as soon as** it rains      
@@ -567,8 +562,8 @@
     <details>
     <summary>Liên từ KẾT HỢP - Coordinate conjunctions</summary><p>
 
-    - Nối các từ, nhóm từ, mệnh đề hoặc ác câu `cùng loại ngữ pháp` với nhau        
-        for, and, nor, but, or, yet, so... *`(FANBOYS)`*
+    - *Nối các từ, nhóm từ, mệnh đề hoặc ác câu `cùng loại ngữ pháp` với nhau*        
+        *for, and, nor, but, or, yet, so... `(FANBOYS)`*
 
         I need to put on my shoes, **so** I wear a pair of socks beforehand         
         I have to choose a skirt **or** a pair of jeans, I haven't decided **yet**
@@ -577,8 +572,8 @@
     <details>
     <summary>Liên từ TƯƠNG QUAN - Correlative Conjunctions</summary><p>
 
-    - Là các `cặp liên từ` luôn đi với nhau     
-        either... or, neither... nor, not only... but also
+    - *Là các `cặp liên từ` luôn đi với nhau*     
+        *either... or, neither... nor, not only... but also*
 
         Choose **either** this dress **or** that pair of trousers       
         That glasses were **neither** pretty **nor** clear      
@@ -588,12 +583,12 @@
     <details>
     <summary>Liên từ PHỤ THUỘC - Subordinate Conjunctions</summary><p>
 
-    - Kết hợp một mệnh đề `phụ` với một mệnh đề `chính`     
-        because, since, as, although, though, while, whereas...     
+    - *Kết hợp một mệnh đề `phụ` với một mệnh đề `chính`*     
+        *because, since, as, although, though, while, whereas...*     
 
         The cat hurries into the house **as** I close the door 
 
-    - Thi thoảng trạng từ `(until, after or before)` cũng có thể là liên từ phụ thuộc       
+    - *Thi thoảng trạng từ `(until, after or before)` cũng có thể là liên từ phụ thuộc*       
         **Before** Chi leaves, she makes sure she bring a jacket along
     </details>
 
@@ -603,9 +598,7 @@
     <summary>Được gọi là MẠO TỪ BẤT ĐỊNH (không cụ thể)</summary><p>
 
     - *Dùng với `danh từ đơn` và lần `đầu tiên` người nói nhắc đến người, con vật, sự vật*            
-        **a** garden        
-        **an** oven     
-        **a** birthday party
+        **a** garden, **a** birthday party, **an** oven
 
     - *Không đi với `đại từ sở hữu`, `từ chỉ định`, `số đếm`*     
         **My** ~~-a-~~ living room is very big      
@@ -655,19 +648,21 @@
     <details>
     <summary>Không nên dùng mạo từ</summary><p>
 
-    - Khi nhắc đến **ý kiến tổng quát** không cụ thể, là số nhiều hoặc không đếm được       
+    - *Khi nhắc đến **ý kiến tổng quát** không cụ thể, là số nhiều hoặc không đếm được*       
         **Gender equality** is a hot issue - Bình đẳng giới tính là vấn đề nóng     
         I like **Korean food**
 
-    - Tên `người, sách, vở kịch` (trừ khi mạo từ nằm trong tiêu đề)
+    - *Tên `người, sách, vở kịch`*        
+        *(trừ khi mạo từ nằm trong tiêu đề)*
         I love to read **Harry Potter**
 
-    - Tên `thị trấn, thành phố, bang và đất nước` (trừ: The USA, The UK, The Netherlands, The Czech Republic, The Philippines)
+    - *Tên `thị trấn, thành phố, bang và đất nước`*     
+        *(trừ: The USA, The UK, The Netherlands, The Czech Republic, The Philippines)*
 
-    - Tên `hồ, đảo đơn, lục địa và núi`
+    - *Tên `hồ, đảo đơn, lục địa và núi`*
         Hoan Kiem Lake, Viet Nam, Asia, Son Tra Mountain...
     
-    - `Hành tinh`, `Môn thể thao` hoặc trò chơi, Tên của các `bữa ăn trong ngày`
+    - *`Hành tinh`, `Môn thể thao` hoặc trò chơi, Tên của các `bữa ăn trong ngày`*        
         Mars, Earth, Jupiter...     
         Baseball, Soccer, Hide and Seek, Monopoly...       
         Breakfast, Lunch, Dinner...     
