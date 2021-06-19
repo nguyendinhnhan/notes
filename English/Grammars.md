@@ -707,7 +707,7 @@
 
 2. Các loại danh từ
     <details>
-    <summary>2.1 Danh từ kép - Compound nouns</summary><p>
+    <summary>1. Danh từ kép - Compound nouns</summary><p>
 
     - *Khác với danh từ đơn (chỉ có 1 từ), danh từ kép có `2 từ` ghép lại với nhau*       
         *Danh từ kép có thể là:*
@@ -722,7 +722,7 @@
     </details>
 
     <details>
-    <summary>2.2 Danh từ cụ thể - Concrete nouns</summary><p>
+    <summary>2. Danh từ cụ thể - Concrete nouns</summary><p>
 
     - *Những từ `hữu hình`, có thể cầm nắm, nhìn thấy được*     
         
@@ -734,7 +734,7 @@
     </details>
 
     <details>
-    <summary>2.3 Danh từ trừu tượng - Abstract nouns</summary><p>
+    <summary>3. Danh từ trừu tượng - Abstract nouns</summary><p>
 
     - *Những từ `vô hình`, không thể cầm nắm, nhìn thấy được: như trạng thái, tính chất, quan niệm...*      
         
@@ -745,7 +745,7 @@
     </details>
 
     <details>
-    <summary>2.4 Danh từ tập hợp - Collective nouns</summary><p>
+    <summary>4. Danh từ tập hợp - Collective nouns</summary><p>
 
     - *Những từ chỉ `nhóm` (người, vật), tập thể, đoàn khối...*
         
@@ -756,7 +756,7 @@
     </details>
 
     <details>
-    <summary>2.5 Danh động từ - Gerunds</summary><p>
+    <summary>5. Danh động từ - Gerunds</summary><p>
 
     - *Là một `danh từ` có dạng như `động từ`*      
         *Tất cả đều có `đuôi là -ing`: running, listening, swimming...*    
@@ -766,38 +766,75 @@
     </details>
 
 ### 11. Countable vs Uncountable Nouns (Danh từ đếm được và không đếm được)
+<details>
+<summary>a. Hầu hết những từ nào có dạng `số ít` và `nhiều` đều là `danh từ đếm được`</summary><p>
 
-a. Hầu hết những từ nào có dạng `số ít` và `nhiều` đều là `danh từ đếm được`
-A potato - Potatoes
-A bowl - Bowls
-I have **a potato**
-I have many **potatoes**
-I ate **a bowl** of rice
-I ate three **bowls** of rice
-b. Hầu hết những từ nào chỉ có `một dạng` đều là `danh từ không đếm được`
-Bread, Rice, Money, Honey
-Do you have some **honey**?
-She has no **money** in here wallet
-c. Nhiều danh từ không đếm được thường là:
-- Nguyên liệu: 
-  bread, rice, honey, sugar, water...
+- A potato - Potatoes
+- A bowl - Bowls
+
+- I have **a potato**
+- I have many **potatoes**
+- I ate **a bowl** of rice
+- I ate three **bowls** of rice
+</details>
+
+<details>
+<summary>b. Hầu hết những từ nào chỉ có `một dạng` đều là `danh từ không đếm được`</summary><p>
+
+*Bread, Rice, Money, Honey*     
+
+- Do you have some **honey**?
+- She has no **money** in here wallet
+</details>
+
+<details>
+<summary>c. Nhiều danh từ không đếm được thường là:</summary><p>
+
+- *Nguyên liệu:*        
+
+  *bread, rice, honey, sugar, water...*         
+
   I need a lot of **water** right now
-- Khái niệm trừu tượng:
-  education, love, war...
+
+- *Khái niệm trừu tượng:*
+
+  *education, love, war...*         
+
   **War** is bad for our planet
-- Cảm xúc
-  happiness, sadness
+
+- *Cảm xúc*     
+
+  *happiness, sadness*      
+
   Money cannot buy **happiness**
-d. Mạo từ "a, an" có thể đi cùng với `danh từ đếm được`
-  I wrote **a letter**
-e. Danh từ đếm được số nhiều có thể `đứng 1 mình`
-  She eats **noodles** for lunch
-f. Mạo từ `không` đi được với danh từ không đếm được
-  We need more **time** to finish this dish
-g. Danh từ không đếm được hay đi với `any, some`
-  I do not have **any sugar** to put in my tea
-  She purchases **some bread** for her dinner
-3. Lưu ý
+</details>
+
+<details>
+<summary>d. Mạo từ "a, an" có thể đi cùng với `danh từ đếm được`</summary><p>
+
+I wrote **a letter**
+</details>
+
+<details>
+<summary>e. Danh từ đếm được số nhiều có thể `đứng 1 mình`</summary><p>
+
+I wrote **a letter**
+</details>
+
+<details>
+<summary>f. Mạo từ `không` đi được với danh từ không đếm được</summary><p>
+
+We need more **time** to finish this dish
+</details>
+
+<details>
+<summary>g. Danh từ không đếm được hay đi với `any, some`</summary><p>
+
+I do not have **any sugar** to put in my tea
+She purchases **some bread** for her dinner
+</details>
+
+- Lưu ý:
    
    | Danh từ đếm được                         | Danh từ không đếm được   |
    | ---------------------------------------- | ------------------------ |
@@ -807,259 +844,362 @@ g. Danh từ không đếm được hay đi với `any, some`
    | Give me **an hour**                      | Give me some **time**    |
 
 ### 12. Plural Nouns (Danh từ số nhiều)
-Cách chuyển danh từ số ít thành danh từ số nhiều
 
 1. Định nghĩa
-- Hầu hết đều có thể chuyển `danh từ số ít` sang `nhiều` bằng việc thêm `-s` vào cuối từ
+    <details>
+    <summary>Hầu hết đều có thể chuyển DANH TỪ SỐ ÍT sang NHIỀU bằng việc thêm '-S' vào cuối từ</summary><p>
 
-| Số ít    | Số nhiều      |
-| -------- | ------------- |
-| Customer | Customer**s** |
-| Market   | Market**s**   |
-| Mother   | Mother**s**   |
+    | Số ít    | Số nhiều      |
+    | -------- | ------------- |
+    | Customer | Customer**s** |
+    | Market   | Market**s**   |
+    | Mother   | Mother**s**   |
 
-Our **customers** are very friendly
-On Mother's Day, **markets** usually give out **discounts** for **mothers**
+    Our **customers** are very friendly     
+    On Mother's Day, **markets** usually give out **discounts** for **mothers**
+    </details>
 
 2. Chuyển danh từ số ít thành danh từ số nhiều
-   2.1 Từ kết thúc bằng: O, S, SH, CH, X or Z*
-   - Thêm `-es` vào cuối từ
-   - Từ có duôi là `z` thì thêm 1 chữ `z` vào cuối tồi thêm `-es`
-  
-  | Số ít      | Số nhiều     |
-  | ---------- | ------------ |
-  | Tomat**o** | Tomat**oes** |
-  | La**sh**   | La**shes**   |
-  | Wat**ch**  | Wat**ches**  |
-  | Bo**x**    | Bo**xes**    |
-  | Qui**z**   | Qui**zzes**  |
+    <details>
+    <summary>1. Từ kết thúc bằng: O, S, SH, CH, X or Z*</summary><p>
 
-    I need 5 bay **tomatoes** for my salad
-    I have 3 **boxes** in my room
-    I drank 2 **glasses** of milk
+    - *Thêm `-es` vào cuối từ*
+    - *Từ có duôi là `z` thì thêm 1 chữ `z` vào cuối tồi thêm `-es`*          
 
-    2.2 Danh từ kết thúc bằng: Nguyên âm + Y
-    - Giữ nguyên và thêm `s` ở cuối
+        | Số ít      | Số nhiều     |
+        | ---------- | ------------ |
+        | Tomat**o** | Tomat**oes** |
+        | La**sh**   | La**shes**   |
+        | Wat**ch**  | Wat**ches**  |
+        | Bo**x**    | Bo**xes**    |
+        | Qui**z**   | Qui**zzes**  |
 
-| Số ít   | Số nhiều |
-| ------- | -------- |
-| Bo**y** | Bo**ys** |
-| Ke**y** | Ke**ys** |
-| Da**y** | Da**ys** |
-| Gu**y** | Gu**ys** |
+        I need 5 bay **tomatoes** for my salad      
+        I have 3 **boxes** in my room       
+        I drank 2 **glasses** of milk       
+    </details>
 
-The **boys** should sing at the fair to exchange some goods
+    <details>
+    <summary>2. Danh từ kết thúc bằng: Nguyên âm + Y</summary><p>
 
-    2.3 Danh từ kết thúc bằng: Phụ âm + Y
-    - Đổi `y -> i` và thêm '-es` ở cuối từ
+    - *Giữ nguyên và thêm `s` ở cuối*
 
-| Số ít     | Số nhiều    |
-| --------- | ----------- |
-| Cit**y**  | Cit**ies**  |
-| Stor**y** | Stor**ies** |
+        | Số ít   | Số nhiều |
+        | ------- | -------- |
+        | Bo**y** | Bo**ys** |
+        | Ke**y** | Ke**ys** |
+        | Da**y** | Da**ys** |
+        | Gu**y** | Gu**ys** |
 
-Nam makes 60 **deliveries** a day
-She told me about the **cites** she went to in her **stories**
+        The **boys** should sing at the fair to exchange some goods
+    </details>
 
-2.4 Danh từ kết thúc bằng: F, FE
-- Bỏ `F` hoặc `FE` và thêm `-ves` ở cuối
-  
-  | Số ít     | Số nhiều    |
-  | --------- | ----------- |
-  | Li**fe**  | Li**ves**   |
-  | Thie**f** | Thie**ves** |
-  | Wi**fe**  | Wi**ves**   |
+    <details>
+    <summary>3. Danh từ kết thúc bằng: Phụ âm + Y</summary><p>
 
-  Is this true that a cat has nine **lives**?
+    - *Đổi `y -> i` thêm `-es` ở cuối*
 
-  The **wives** are choosing products and the husbands are waiting for the cashier
+        | Số ít     | Số nhiều    |
+        | --------- | ----------- |
+        | Cit**y**  | Cit**ies**  |
+        | Stor**y** | Stor**ies** |
 
-2.5 Danh từ kết thúc bằng: IS
-- Đổi `-is` thành `-es` ở cuối
-  
-  | Số ít        | Số nhiều                 |
-  | ------------ | ------------------------ |
-  | Analys**is** | Analys**es**             |
-  | Bas**is**    | Bas**es**                |
-  | Cris**is**   | Cris**es** (khủng hoảng) |
+        Nam makes 60 **deliveries** a day
+        She told me about the **cites** she went to in her **stories**
+    </details>
 
-  I made some **analyses** and reached a conclusion
-  2020 is a year with many **crises**
+    <details>
+    <summary>4. Danh từ kết thúc bằng: F, FE</summary><p>
 
-2.6 Danh từ kết thúc bằng: US
-- Đổi `-us` thành `-i` ở cuối
-  
-  | Số ít        | Số nhiều                       |
-  | ------------ | ------------------------------ |
-  | Cact**us**   | Cact**i** (cây xương rồng)     |
-  | Fung**us**   | Fung**i** (nấm)              |
-  | Stimul**us** | Stimul**i** (sự kích thích) |
-  | Syllab**us** | Syllab**i** (dàn bài)          |
+    - *Bỏ `F` hoặc `FE` và thêm `-ves` ở cuối*
 
-  She sold me 2 **cacti** for a price of 1
+        | Số ít     | Số nhiều    |
+        | --------- | ----------- |
+        | Li**fe**  | Li**ves**   |
+        | Thie**f** | Thie**ves** |
+        | Wi**fe**  | Wi**ves**   |
 
-2.7 Những trường hợp đặc biệt 1
+        Is this true that a cat has nine **lives**?     
+        The **wives** are choosing products and the husbands are waiting for the cashier
+    </details>
 
-| Số ít      | Số nhiều              |
-| ---------- | --------------------- |
-| M**a**n    | M**e**n               |
-| Wom**a**n  | Wom**e**n             |
-| Child      | Child**ren**          |
-| Pe**rson** | Pe**ople**            |
-| T**oo**th  | T**ee**th             |
-| F**oo**t   | F**ee**t              |
-| G**oo**se  | G**ee**se (con ngỗng) |
-| M**ouse**  | M**ice**              |
+    <details>
+    <summary>5. Danh từ kết thúc bằng: IS</summary><p>
 
-The **men** lost an hour waiting for the receipts last week
+    - *Đổi `-is` thành `-es` ở cuối*
 
-2.8 Những trường hợp đặc biệt 2
-- Những từ dù là số ít hay nhiều đều **giữ nguyên**
+        | Số ít        | Số nhiều                 |
+        | ------------ | ------------------------ |
+        | Analys**is** | Analys**es**             |
+        | Bas**is**    | Bas**es**                |
+        | Cris**is**   | Cris**es** (khủng hoảng) |
 
-| Số ít    | Số nhiều                 |
-| -------- | ------------------------ |
-| Fish     | Fish                     |
-| Sheep    | Sheep                    |
-| Deer     | Deer (con hươu)          |
-| Moose    | Moose (con nai sừng tấm) |
-| Aircraft | Aircraft                 |
+    I made some **analyses** and reached a conclusion       
+    2020 is a year with many **crises**
+    </details>
 
-There are plenty of **fish** in the sea
+    <details>
+    <summary>6. Danh từ kết thúc bằng: US</summary><p>
+
+    - *Đổi `-us` thành `-i` ở cuối*
+
+        | Số ít        | Số nhiều                    |
+        | ------------ | --------------------------- |
+        | Cact**us**   | Cact**i** (cây xương rồng)  |
+        | Fung**us**   | Fung**i** (nấm)             |
+        | Stimul**us** | Stimul**i** (sự kích thích) |
+        | Syllab**us** | Syllab**i** (dàn bài)       |
+
+        She sold me 2 **cacti** for a price of 1
+    </details>
+
+    <details>
+    <summary>7. Những trường hợp đặc biệt 1</summary><p>
+
+    | Số ít      | Số nhiều              |
+    | ---------- | --------------------- |
+    | M**a**n    | M**e**n               |
+    | Wom**a**n  | Wom**e**n             |
+    | Child      | Child**ren**          |
+    | Pe**rson** | Pe**ople**            |
+    | T**oo**th  | T**ee**th             |
+    | F**oo**t   | F**ee**t              |
+    | G**oo**se  | G**ee**se (con ngỗng) |
+    | M**ouse**  | M**ice**              |
+
+    The **men** lost an hour waiting for the receipts last week
+    </details>
+
+    <details>
+    <summary>8. Những trường hợp đặc biệt 2</summary><p>
+
+    - *Những từ dù là số ít hay nhiều đều **giữ nguyên***
+
+        | Số ít    | Số nhiều                 |
+        | -------- | ------------------------ |
+        | Fish     | Fish                     |
+        | Sheep    | Sheep                    |
+        | Deer     | Deer (con hươu)          |
+        | Moose    | Moose (con nai sừng tấm) |
+        | Aircraft | Aircraft                 |
+
+        There are plenty of **fish** in the sea
+    </details>
 
 ### Genitive/Possessive Case (Sở hữu cách)
 
-Cấu trúc ngữ pháp chỉ **quyền sở hữu** hoặc mối quan hệ của một người, vật đối với một người hay một vật khác
+1. Định nghĩa
+    <details>
+    <summary>Cấu trúc ngữ pháp chỉ QUYỀN SỞ HỮU hoặc mối quan hệ của một người, vật đối với một người hay một vật khác</summary><p>
 
-Gồm có `Đại từ sở hữu, Tính từ sở hữu, Danh từ sở hữu`
+    - *Gồm có `Đại từ sở hữu, Tính từ sở hữu, Danh từ sở hữu`*
 
-- Danh từ sở hữu thể hiện bằng:
-  `N + 's + N` hoặc `N + of`
+    - *Danh từ sở hữu thể hiện bằng:*     
+        
+        *`N + 's + N` hoặc `N + of`*
 
-  **Bird's prey** are worms
-  **Nam's job** is to study about Marine
+        **Bird's prey** are worms
+        **Nam's job** is to study about Marine
+    </details>
+
 2. Cách sử dụng `'s`
-   2.1 Lưu ý
-   - Ta thường dùng dấu `'s` hất với người, động vật
-   - Đôi khi là địa điểm, tổ chức, công ty: đại diện cho một nhóm người
-   - `KHÔNG` sử dụng cho những vật vô tri vô giác
-    **Chi's** cat
-    **My company's** party
-    **Cat's** tail
+   
+    <details>
+    <summary>1. Lưu ý</summary><p>
 
-   2.2 Danh từ số ít
-   - Thêm `'s` 
-    **Nam's spider** live in a box
-    2.3 Danh từ số nhiều
-    - Thêm `'` nhưng không có `s`
-    - `Cách phát âm` đều giống nhau, ta phải dựa vào `ngữ cảnh` của người nói để biết danh từ đó là số nhiều hay ít
-    **Zebra's stripes** are balck and white
-    **The two penguins' house** is stolen
-    2.4 Danh từ số nhiều không kết thúc bằng `-s`
-    - Thêm `'s` vào sau danh từ như bình thường
-    The International **Women's Day** is on March 8th
-    Everyone at the zoo is voting for the **people's favourite animal** award
-    2.5 Danh từ số ít kết thúc `-s`
-    - Thêm `'s` sau hầu hết các tên riêng:
-    James's, Frances's
-    - Những từ liên quan tới cổ điển, tôn giáo: chỉ thêm `'`
-    Does anyone know **Jesus'** real name?
-    2.6 Cụm danh từ
-    - Vẫn áp dụng những quy tắc trên cho các cụm danh từ
-    - Nếu 2 người cùng sở hữu 1 vật, thêm `'s` vào từ sau cùng
-    **Chi and Nam's** stuffed bear is dirty - Con gấu công của Chi và Nam (1 con gấu) bị bẩn
-    - Nếu mỗi người sở hữu 1 vật, thêm `'s` vào mỗi từ
-    **Chi's** and **Nam's** stuffed bears are dirty - Con gấu bông của Chi và con gấu bông của Nam (2 con gấu) đều bị bẩn
-    2.7 Không có danh từ đi sau
-    - Nếu ý nói đến đã rõ, `không cần` phải thêm danh từ theo sau
-    Her hair is longer than **Linh's**
-    Whose essay about mamals is this? - It's **Nam's** Bài luận về động vật có vú của ai đây - Của Nam đó
+    - *Ta thường dùng dấu `'s` hất với người, động vật*
+    - *Đôi khi là địa điểm, tổ chức, công ty: đại diện cho một nhóm người*
+    - *`KHÔNG` sử dụng cho những vật vô tri vô giác*
+
+        **Chi's** cat           
+        **My company's** party      
+        **Cat's** tail
+    </details>
+
+    <details>
+    <summary>2. Danh từ số ít</summary><p>
+
+    - *Thêm `'s`*     
+
+        **Nam's spider** live in a box
+    </details>
+
+    <details>
+    <summary>3. Danh từ số nhiều</summary><p>
+
+    - *Thêm `'` nhưng không có `s`*
+    - *`Cách phát âm` đều giống nhau, ta phải dựa vào `ngữ cảnh` của người nói để biết danh từ đó là số nhiều hay ít*
+
+        **Zebra's stripes** are balck and white     
+        **The two penguins' house** is stolen
+    </details>
+
+    <details>
+    <summary>4. Danh từ số nhiều không kết thúc bằng '-S'</summary><p>
+
+    - *Thêm `'s` vào sau danh từ như bình thường*
+
+        The International **Women's Day** is on March 8th       
+        Everyone at the zoo is voting for the **people's favourite animal** award
+    </details>
+
+    <details>
+    <summary>5. Danh từ số ít kết thúc `-s`</summary><p>
+
+    - *Thêm `'s` sau hầu hết các tên riêng:*
+
+        James's, Frances's
+
+    - *Những từ liên quan tới cổ điển, tôn giáo: chỉ thêm `'`*
+
+        Does anyone know **Jesus'** real name?
+    </details>
+
+    <details>
+    <summary>6. Cụm danh từ</summary><p>
+
+    - *Vẫn áp dụng những quy tắc trên cho các cụm danh từ*
+    - *Nếu 2 người cùng sở hữu 1 vật, thêm `'s` vào từ sau cùng*
+
+        **Chi and Nam's** stuffed bear is dirty         
+          - *Con gấu công của Chi và Nam (1 con gấu) bị bẩn*
+    
+    - *Nếu mỗi người sở hữu 1 vật, thêm `'s` vào mỗi từ*
+
+        **Chi's** and **Nam's** stuffed bears are dirty         
+          - *Con gấu bông của Chi và con gấu bông của Nam (2 con gấu) đều bị bẩn*
+    </details>
+
+    <details>
+    <summary>7. Không có danh từ đi sau</summary><p>
+
+    - *Nếu ý nói đến đã rõ, `không cần` phải thêm danh từ theo sau*
+
+        Her hair is longer than **Linh's**      
+        Whose essay about mamals is this? - It's **Nam's**          
+          - *Bài luận về động vật có vú của ai đây - Của Nam đó*
+    </details>
 
 ### 14. Adjectives (Tính từ)
 
 1. Định nghĩa
-- Từ đẻ `miêu tả, mô phỏng`, bổ sung thông tin cho danh từ hoặc đại từ
-- Có hai loại tính từ: tính từ `mô tả` và tính từ `giới hạn`
-  black, white, tall, short, slim, big, loud, quiet...
-  He is an **easy-going** person
-  She has **long black** hair
+    <details>
+    <summary>Từ để MIÊU TẢ, MÔ PHỎNG, bổ sung thông tin cho danh từ hoặc đại từ</summary><p>
+
+    - *Có hai loại tính từ: tính từ `mô tả` và tính từ `giới hạn`*
+        
+        *black, white, tall, short, slim, big, loud, quiet...*
+
+        He is an **easy-going** person      
+        She has **long black** hair     
+    </details>
 
 2. Các loại tính từ
-   2.1 Tính từ mô tả (Descriptive adjective)
-    - Là tính từ mô tả về `màu sắc, kích thước, phẩm chất`... của người, sự vật, sự việc
-    grey, yellow, small, ugly, cute, handsome...
-    My cat is **samll** and **cute**
-    That dress is **long** and **beautiful**
-    
-    2.2 Tính từ giới hạn (Limiting adjective)
-     - Là tính từ đặt `giới hạn` cho những từ nó bổ nghĩa
-        + Tính từ sở hữu (my, her, him...)
-        + Tính từ chỉ định (this, that, those...)
-        + Từ xác định (Determiners) có chức năng làm tính từ
-      **That** is Chi, **her** hair is **long and black**
+
+    <details>
+    <summary>1. Tính từ mô tả (Descriptive adjective)</summary><p>
+
+    - *Là tính từ mô tả về `màu sắc, kích thước, phẩm chất`... của người, sự vật, sự việc*
+
+        *grey, yellow, small, ugly, cute, handsome...*
+
+        My cat is **samll** and **cute**        
+        That dress is **long** and **beautiful**   
+    </details>
+
+    <details>
+    <summary>2. Tính từ giới hạn (Limiting adjective)</summary><p>
+
+    - *Là tính từ đặt `giới hạn` cho những từ nó bổ nghĩa*      
+        + *Tính từ sở hữu (my, her, him...)*
+        + *Tính từ chỉ định (this, that, those...)*
+        + *Từ xác định (Determiners) có chức năng làm tính từ*
+
+        **That** is Chi, **her** hair is **long and black**  
+    </details>
 
 3. Trật tự tính từ
-Theo thứ tự: `OSSACOMP`
-- O = Opinion = ý kiến, thái độ
-humorous, beautiful, selfish, easy, hard, handsome, ugly...
-- S = Size = Kích thước của vật
-big, small, tall, huge, tiny...
-- S = Shape = hình dáng của vật
-round, square, slim, fat, long, thin...
-- A = Age = trạng thái về thời gian
-  old, young, new, ancient, modern...
-- C = Color = màu sắc
-  red, blue, green, coral...
-- O = Origin = nguồn gốc
-  Japanese, Vietnamese, French, English...
-- M = Material = nguyên liệu
-  wooden, plastic, gold, satin...
-- P = Purpose = mục đích sử dụng
-  shopping, sleeping, storing, cooking...
 
-A classy French purse - Một chiếc ví sanh chảnh của Pháp
-classy = Opinion, French = Origin
+    <details>
+    <summary>Theo thứ tự: 'OSSACOMP'</summary><p>
 
-A confident slim American man
-confident = Opinion, slime = Shape, American = Origin
+    - O = `Opinion` = ý kiến, thái độ       
+        *humorous, beautiful, selfish, easy, hard, handsome, ugly...*
+    
+    - S = `Size` = Kích thước của vật       
+        *big, small, tall, huge, tiny...*
+    
+    - S = `Shape` = hình dáng của vật       
+        *round, square, slim, fat, long, thin...*
+    
+    - A = `Age` = trạng thái về thời gian       
+        *old, young, new, ancient, modern...*
+    
+    - C = `Color` = màu sắc     
+        *red, blue, green, coral...*
+    
+    - O = `Origin` = nguồn gốc      
+        *Japanese, Vietnamese, French, English...*
+    
+    - M = `Material` = nguyên liệu      
+        *wooden, plastic, gold, satin...*
+    
+    - P = `Purpose` = mục đích sử dụng      
+        *shopping, sleeping, storing, cooking...*     
 
-Big square white shopping bags
-big = Size, square = Shape, white = Color, shopping = Purpose
+
+        A **classy French** purse - Một chiếc ví sanh chảnh của Pháp        
+            *classy = Opinion, French = Origin*
+
+        A **confident slim American** man       
+            *confident = Opinion, slime = Shape, American = Origin*
+
+        **Big square white shopping** bags      
+            *big = Size, square = Shape, white = Color, shopping = Purpose*
+    </details>
 
 ### 15. Adjective ending with `-ed` and `-ing` (Tính từ có đuôi -ed và -ing)
 
-1. Định nghĩa
+<details>
+<summary>'-ED' bị động, '-ING' chủ động</summary><p>
+
+- *Kết thúc bằng `-ed` để tả: cảm nhận (của người) hoặc cảm xúc mà `bị người khác, vật tình huống tác động vào`*      
+    *`Không` dùng cho vật vô tri vô giác (vì chúng không có cảm xúc)*
+
+- *Kết thúc bằng đuôi `-ing` để tả: `bản chất, tính chất, đặc điểm` của người, vật, tình huống*
+
+    My friend is **annoyed**        
+      - *Bạn tôi cảm thấy bị làm phiền*        
+    My friend is **annoying**       
+      - *Bạn tôi thật là phiền phức*      
+
+    - They are **scared** by this horror movie
+    - Linh went to a sport center yesterday, she was very **delighted**
+    - That haunted house is so **terrifying**       
+        - *Căn nhà ma ám đó rất đáng sợ*        
+    - Popping bubble wrap is stress **relieving**       
+        - *Bóp vỡ màng xốp hơi giúp giải toả căng thẳng*
+</details>
+
+<details>
+<summary>Lưu ý</summary><p>
+
+- *Ta có thể dùng tính từ để tả người hoặc tình huống, nhưng cẩn thận cách chọn từ và đặt câu vì chúng sẽ có nghĩa `hoàn toàn khác nhau`*
+
+    I am **confused** - *Tôi đang không hiểu một vấn đề nào đó*       
+    I am **confusing** - *Tôi là một người khó hiểu*      
+
+- *Tính từ duôi `-ed` và `-ing` trong một câu, Những câu sau đây chỉ là ví dụ để thể hiện sự khác nhau giữa 2 từ.*        
+    *`Không` nên đặt câu theo vì bị lặp từ*
+
+    I was **pleased** by how **pleasing** this picture look         
+        - *Tôi rất hài bởi sự dễ chịu của bức tranh này mang lại*       
+
+    She is **exhausted** because this trip is so **exhausting**         
+        - *Cô ấy kiệt sức bởi chuyến đi này rất tốn sức*
+</details>
 
 
-- Kết thúc bằng `-ed` để tả: cảm nhận (của người) hoặc cảm xúc mà `bị người khác, vật tình huống tác động vào`
-- `Không` dùng cho vật vô tri vô giác (vì chúng không có cảm xúc)
-
-- Kết thúc bằng đuôi `-ing` để tả: `bản chất, tính chất, đặc điểm` của người, vật, tình huống
-  
-  My friend is **annoyed** - Bạn tôi cảm thấy bị làm phiền
-  My friend is **annoying** - Bạn tôi thật là phiền phức
-
-1. Lưu ý
-- Ta có thể dùng tính từ để tả người hoặc tình huống, nhưng cẩn thận cách chọn từ và đặt câu vì chúng sẽ có nghĩa `hoàn toàn khác nhau`
-
-    I am **confused** - Tôi đang không hiểu một vấn đề nào đó
-    I am **confusing** - Tôi là một người khó hiểu
-
-- Tính từ duôi `-ed` và `-ing` trong một câu, Những câu sau đây chỉ là ví dụ để thể hiện sự khác nhau giữa 2 từ. `Không` nên đặt câu theo vì bị lặp từ
-    I was **pleased** by how **pleasing** this picture look - Tôi rất hài bởi sự dễ chịu của bức tranh này mang lại
-    She is **exhausted** because this trip is so **exhausting** - Cô ấy kiệt sức bởi chuyến đi này rất tốn sức
-
-3. Luyện tập
-3.1 Đặt 2 câu với tính tình đuôi `-ed`
-- They are **scared** by this horror movie
-- Linh went to a sport center yesterday, she was very **delighted**
-
-3.2 Đặt 2 câu với tính từ đôi `-ing`
-- That haunted house is so **terrifying** - Căn nhà ma ám đó rất đáng sợ
-- Popping bubble wrap is stress **relieving** - Bóp vỡ màng xốp hơi giúp giải toả căng thẳng
-
-3.3 Dịch câu sau thành tiếng Anh
-- Đó là chú chó Pháp màu nâu bé xíu - That is a tiny brown French dog
-- Tôi muốn mua một chiếc bàn cổ hình tròn - I want to buy a round antique table
   
 
 
