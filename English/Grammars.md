@@ -13,6 +13,8 @@
 - [Genitive/Possessive Case (Sở hữu cách)](#genitivepossessive-case-sở-hữu-cách)
 - [14. Adjectives (Tính từ)](#14-adjectives-tính-từ)
 - [15. Adjective ending with `-ed` and `-ing` (Tính từ có đuôi -ed và -ing)](#15-adjective-ending-with--ed-and--ing-tính-từ-có-đuôi--ed-và--ing)
+- [16. Adverbs (Trạng từ)](#16-adverbs-trạng-từ)
+- [17. Trạng từ chỉ tần suất và mức độ](#17-trạng-từ-chỉ-tần-suất-và-mức-độ)
 
 ### 1. Personal Pronouns Subject and Object (Đại từ nhân xưng Chủ ngữ và Tân ngữ)
 
@@ -1199,18 +1201,99 @@ She purchases **some bread** for her dinner
         - *Cô ấy kiệt sức bởi chuyến đi này rất tốn sức*
 </details>
 
+### 16. Adverbs (Trạng từ)
+1. Định nghĩa 
+    <details>
+    <summary>Từ để MIÊU TẢ, MÔ PHỎNG, BỔ NGHĨA cho động từ, tính từ hoặc trạng từ khác</summary><p>
 
-  
+    a. The scholl bell rings **loudly** - Bổ nghĩa cho độn từ **rings**, miêu tả độ to của tiếng chuông
+    b. Bổ nghĩa cho tính từ (thường đi trước tính từ)
+    - very, extremely, really - rất
+    - totally, absolutely - hoàn toàn
+    - quite, fairly, well - khá
+
+    That museum is **quite** big
+
+    c. Bổ nghĩa cho trạng từ khác
+    I want to go to the cinema **so** badly
+    - Tôi vô cùng muốn đi đến rạp chiếu phim 
+    </details>
+
+2. Có một số loại trạng từ
+2.1 Trạng từ chỉ tính cách (Adverbs of manner):
+- Miêu tả một `hành động` diễn ra như thế nào, bằng cách nào
+- Trả lời cho câu hỏi: `How`
+- quickly, carefully, badly...
+The airplane takes off **carefully**
 
 
+- Tính từ = trạng từ 
+  + fast, hard, early, late, straight, wrong - Khi đổi tính từ sang trạng từ thì k cần thêm đuôi `-ly`
+I worked **hard**
+She will be at work **early**
+At the beginning of the meeting, he went **straight** to the point
+- Lưu ý: Hardly - Hiếm khi ## Hard - Chăm chỉ
+He hardly goes to the library - cậu ấy hiếm khi đến thư viện
+Lately - Dạo gần đây ## Late - Trễ
+They have been to a police station **lately**, reporting a burglary
+  - Dạo gần đây họ đã có mặt ở đồn cảnh sát để báo cáo về một vụ đột nhập
 
+2.2. Trạng từ chỉ thái độ (Adverbs of attitude):
+- Miêu tả `thái độ, cảm xúc` của người nói tới sự việc đang được nhắc tới
+  + Luckily, Fortunately - May mắn thay
+  + Honestly - Thật lòng
+  + Hopefully - Mong muốn, mong rằng
+  **Honestly**, I expected better in this hair salon
+  **Luckily**, she has enough money to open a bakery by herself
 
+2.3. Trạng từ chỉ thời gian (Adverbs of time):
+- Cho biết hành động diễn ra vào `thời điểm` nào
++ Now
++ Tomorrow
++ This year
++ Last week
++ Immediately
++ Then
+  Can she go the bank **immediatelly**?
+  I went to the supermarket **last week**
 
+2.4 Trạng từ chỉ nơi chốn (adverbs of place)
+- Chỉ `địa điểm` diễn ra hành động
++ Here
++ There
++ Above
++ Everywhere
++ Along
++ Through
 
+We were riding our bikes to restaurant and our dog also was running **along**
+When you arrive at the airport, remember to check your bas **there**
 
+### 17. Trạng từ chỉ tần suất và mức độ
 
+1. Trạng từ chỉ tần suất (Adverbs of frequency)
+   - Là trạng từ chỉ `tần suất` của một hành động
 
+| Tần suất | Trạng từ                      | Ví dụ                                  |                     |
+| -------- | ----------------------------- | -------------------------------------- | ------------------- |
+| 100%     | always                        | I **always** do morning exercises      | (ngày nào cũng tập) |
+| 90%      | usually                       | I **usually** do morning exercises     | (6 lần/ 1 tuần)     |
+| 80%      | normally / generally          | I **normally** do morning exercises    | (5 lần/ 1 tuần)     |
+| 70%      | often / frequently            | I **often** do morning exercises       | (4 lần / 1 tuần)    |
+| 50%      | sometimes                     | I **sometimes** do morning exercises   | (3 lần/ 1 tuần)     |
+| 30%      | occasionlly                   | I **occasionlly** do morning exercises | (1 lần/ 1 tuần)     |
+| 5-10%    | seldom / hardly ever / rarely | I **seldom** do morning exercises      | (1 lần/ 1 tháng)    |
+| 0%       | never                         | I **never** do morning exercises       |                     |
 
-
-
-
+2. Trạng từ chỉ mức độ (Adverbs of degree)
+- Chỉ mức dộ `bổ nghĩa` cho một tính từ hay một trạng từ khác...
+- Absolutely, enough, entirely, nearly, quite, rather, scarcely, too
+- Tuyệt đối, đủ, hoàn toàn, gần như, khá, khá, chắc chắn không, quá
+  He bakes **rather** well - Anh ấy nướng bánh khá là tốt
+  Shaving is just **too** hard
+  What she said is **entirely** true
+3. Phân biệt giữa trạng từ và tính từ
+- Tính từ: miêu tả DANH TỪ
+  *My cat* is **fast**
+- Trạng từ: miêu tả ĐỘNG TỪ 
+  My cat *eats* **fast**
