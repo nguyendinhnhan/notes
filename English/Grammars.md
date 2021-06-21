@@ -15,6 +15,9 @@
 - [15. Adjective ending with `-ed` and `-ing` (Tính từ có đuôi -ed và -ing)](#15-adjective-ending-with--ed-and--ing-tính-từ-có-đuôi--ed-và--ing)
 - [16. Adverbs (Trạng từ)](#16-adverbs-trạng-từ)
 - [17. Trạng từ chỉ tần suất và mức độ](#17-trạng-từ-chỉ-tần-suất-và-mức-độ)
+- [18. Động từ](#18-động-từ)
+- [19. So sánh hơn và so sánh nhất (Comparative and Superlative)](#19-so-sánh-hơn-và-so-sánh-nhất-comparative-and-superlative)
+- [20. Equal Comparison - So sánh bằng](#20-equal-comparison---so-sánh-bằng)
 
 ### 1. Personal Pronouns Subject and Object (Đại từ nhân xưng Chủ ngữ và Tân ngữ)
 
@@ -1219,81 +1222,354 @@ She purchases **some bread** for her dinner
     - Tôi vô cùng muốn đi đến rạp chiếu phim 
     </details>
 
-2. Có một số loại trạng từ
-2.1 Trạng từ chỉ tính cách (Adverbs of manner):
-- Miêu tả một `hành động` diễn ra như thế nào, bằng cách nào
-- Trả lời cho câu hỏi: `How`
-- quickly, carefully, badly...
-The airplane takes off **carefully**
+2. Có một số loại trạng từ     
+    <details>
+    <summary>1. Trạng từ chỉ tính cách (Adverbs of manner):</summary><p>
+
+    - *Miêu tả một `hành động` diễn ra như thế nào, bằng cách nào*
+    - *Trả lời cho câu hỏi: `How`*
+        
+        *quickly, carefully, badly...*
+
+        The airplane takes off **carefully**
 
 
-- Tính từ = trạng từ 
-  + fast, hard, early, late, straight, wrong - Khi đổi tính từ sang trạng từ thì k cần thêm đuôi `-ly`
-I worked **hard**
-She will be at work **early**
-At the beginning of the meeting, he went **straight** to the point
-- Lưu ý: Hardly - Hiếm khi ## Hard - Chăm chỉ
-He hardly goes to the library - cậu ấy hiếm khi đến thư viện
-Lately - Dạo gần đây ## Late - Trễ
-They have been to a police station **lately**, reporting a burglary
-  - Dạo gần đây họ đã có mặt ở đồn cảnh sát để báo cáo về một vụ đột nhập
+    - *Tính từ = trạng từ*      
+        *Khi đổi tính từ sang trạng từ thì k cần thêm đuôi `-ly`*       
 
-2.2. Trạng từ chỉ thái độ (Adverbs of attitude):
-- Miêu tả `thái độ, cảm xúc` của người nói tới sự việc đang được nhắc tới
-  + Luckily, Fortunately - May mắn thay
-  + Honestly - Thật lòng
-  + Hopefully - Mong muốn, mong rằng
-  **Honestly**, I expected better in this hair salon
-  **Luckily**, she has enough money to open a bakery by herself
+        *fast, hard, early, late, straight, wrong*
 
-2.3. Trạng từ chỉ thời gian (Adverbs of time):
-- Cho biết hành động diễn ra vào `thời điểm` nào
-+ Now
-+ Tomorrow
-+ This year
-+ Last week
-+ Immediately
-+ Then
-  Can she go the bank **immediatelly**?
-  I went to the supermarket **last week**
+        I worked **hard**       
+        She will be at work **early**       
+        At the beginning of the meeting, he went **straight** to the point      
 
-2.4 Trạng từ chỉ nơi chốn (adverbs of place)
-- Chỉ `địa điểm` diễn ra hành động
-+ Here
-+ There
-+ Above
-+ Everywhere
-+ Along
-+ Through
+    - Lưu ý:        
+        *`Hardly` - `Hard` (Hiếm khi - Chăm chỉ)*      
+        He hardly goes to the library - cậu ấy hiếm khi đến thư viện        
 
-We were riding our bikes to restaurant and our dog also was running **along**
-When you arrive at the airport, remember to check your bas **there**
+        *`Lately` - `Late` ( Dạo gần đây - Trễ)*        
+        They have been to a police station **lately**, reporting a burglary     
+          - *Dạo gần đây họ đã có mặt ở đồn cảnh sát để báo cáo về một vụ đột nhập*
+    </details>
+
+    <details>
+    <summary>2. Trạng từ chỉ thái độ (Adverbs of attitude):</summary><p>
+
+    - *Miêu tả `thái độ, cảm xúc` của người nói tới sự việc đang được nhắc tới*
+      + *Luckily, Fortunately - May mắn thay*
+      + *Honestly - Thật lòng*
+      + *Hopefully - Mong muốn, mong rằng *       
+
+        **Honestly**, I expected better in this hair salon        
+        **Luckily**, she has enough money to open a bakery by herself
+    </details>
+
+    <details>
+    <summary>3. Trạng từ chỉ thời gian (Adverbs of time):</summary><p>
+
+    - *Cho biết hành động diễn ra vào `thời điểm` nào*
+
+        *Now, Tomorrow, This year, Last week, Immediately, Then*
+
+        Can she go the bank **immediatelly**?       
+        I went to the supermarket **last week**
+    </details>
+
+    <details>
+    <summary>4. Trạng từ chỉ nơi chốn (adverbs of place)</summary><p>
+
+    - *Chỉ `địa điểm` diễn ra hành động*
+        
+        *Here, There, Above, Everywhere, Along, Through*
+
+        We were riding our bikes to restaurant and our dog also was running **along**       
+        When you arrive at the airport, remember to check your bas **there**
+    </details>
 
 ### 17. Trạng từ chỉ tần suất và mức độ
 
-1. Trạng từ chỉ tần suất (Adverbs of frequency)
-   - Là trạng từ chỉ `tần suất` của một hành động
+<details>
+<summary>1. Trạng từ chỉ tần suất (Adverbs of frequency)</summary><p>
 
-| Tần suất | Trạng từ                      | Ví dụ                                  |                     |
-| -------- | ----------------------------- | -------------------------------------- | ------------------- |
-| 100%     | always                        | I **always** do morning exercises      | (ngày nào cũng tập) |
-| 90%      | usually                       | I **usually** do morning exercises     | (6 lần/ 1 tuần)     |
-| 80%      | normally / generally          | I **normally** do morning exercises    | (5 lần/ 1 tuần)     |
-| 70%      | often / frequently            | I **often** do morning exercises       | (4 lần / 1 tuần)    |
-| 50%      | sometimes                     | I **sometimes** do morning exercises   | (3 lần/ 1 tuần)     |
-| 30%      | occasionlly                   | I **occasionlly** do morning exercises | (1 lần/ 1 tuần)     |
-| 5-10%    | seldom / hardly ever / rarely | I **seldom** do morning exercises      | (1 lần/ 1 tháng)    |
-| 0%       | never                         | I **never** do morning exercises       |                     |
+- Là trạng từ chỉ `tần suất` của một hành động
 
-2. Trạng từ chỉ mức độ (Adverbs of degree)
-- Chỉ mức dộ `bổ nghĩa` cho một tính từ hay một trạng từ khác...
-- Absolutely, enough, entirely, nearly, quite, rather, scarcely, too
-- Tuyệt đối, đủ, hoàn toàn, gần như, khá, khá, chắc chắn không, quá
-  He bakes **rather** well - Anh ấy nướng bánh khá là tốt
-  Shaving is just **too** hard
-  What she said is **entirely** true
-3. Phân biệt giữa trạng từ và tính từ
-- Tính từ: miêu tả DANH TỪ
+    | Tần suất | Trạng từ                  | Ví dụ                                  |                     |
+    | -------- | ------------------------- | -------------------------------------- | ------------------- |
+    | 100%     | always                    | I **always** do morning exercises      | (ngày nào cũng tập) |
+    | 90%      | usually                   | I **usually** do morning exercises     | (6 lần/1 tuần)      |
+    | 80%      | normally/generally        | I **normally** do morning exercises    | (5 lần/1 tuần)      |
+    | 70%      | often/frequently          | I **often** do morning exercises       | (4 lần/1 tuần)      |
+    | 50%      | sometimes                 | I **sometimes** do morning exercises   | (3 lần/1 tuần)      |
+    | 30%      | occasionlly               | I **occasionlly** do morning exercises | (1 lần/1 tuần)      |
+    | 5-10%    | seldom/hardly ever/rarely | I **seldom** do morning exercises      | (1 lần/1 tháng)     |
+    | 0%       | never                     | I **never** do morning exercises       |                     |
+
+</details>
+
+<details>
+<summary>2. Trạng từ chỉ mức độ (Adverbs of degree)</summary><p>
+
+- *Chỉ mức dộ `bổ nghĩa` cho một tính từ hay một trạng từ khác...*
+
+    *Absolutely, enough, entirely, nearly, quite, rather, scarcely, too*        
+      - Tuyệt đối, đủ, hoàn toàn, gần như, khá, khá, chắc chắn không, quá
+
+    He bakes **rather** well        
+      - *Anh ấy nướng bánh khá là tốt*     
+    Shaving is just **too** hard        
+    What she said is **entirely** true      
+
+</details>
+
+<details>
+<summary>Phân biệt giữa trạng từ và tính từ</summary><p>
+
+- *Tính từ: miêu tả DANH TỪ*        
   *My cat* is **fast**
-- Trạng từ: miêu tả ĐỘNG TỪ 
+
+- *Trạng từ: miêu tả ĐỘNG TỪ*       
   My cat *eats* **fast**
+</details>
+
+### 18. Động từ
+
+1. Định nghĩa
+    <details>
+    <summary>Từ để thể hiện HÀNH ĐỘNG hoặc một TRẠNG THÁI</summary><p>
+
+    - *Một động từ thể hiên một ai đó dang làm gì đó*       
+
+        *run, speed, talk, write, play...*     
+
+        He is **playing** as a goalkeeper in this soccer match
+    </details>
+
+    <details>
+    <summary>1. Ngoại động từ - Transitive verbs</summary><p>
+
+    - *Diễn tả hành động `tác động` lên người, vật*
+    - *Ai làm gì đó với ai/cái gì*
+    - *Luôn luôn phải đi cùng với Tân ngữ*
+    
+        I **pour** him a cup of water
+        She **looks** at the watch
+    </details>
+
+    <details>
+    <summary>2. Nội động từ - Intransitive verbs</summary><p>
+
+    - Diễn tả `hành động, trạng thái` của người nói
+    - `Không` cần đi với Tân ngữ
+
+        She is **walking**
+        We **talked** for hours
+    </details>
+
+    <details>
+    <summary>3. Động từ liên kết - Linking verbs</summary><p>
+
+    - *Để nối giữa `chủ ngữ` và `vị ngữ`*
+    - *Không miêu tả hành động cụ thể nào mà chỉ chỉ ra `tình trạng` của sự vật sự việc và con người*
+
+        She **is** a docter
+        You **seemed** sick this morning
+
+    - *Một số động từ liên kết phổ biến:*
+
+        + *To be: am, is, are, was, were, be, been...*
+            They **were** sleeping at 10pm last night
+
+        + *become, seem, look, feel, sound, taste...*
+            I **became** a teacher
+            We **feel** angry after waiting for 2 hours
+    </details>
+
+2. Các dạng động từ
+    <details>
+    <summary>Có 2 dạng: `nguyên thể` và `biến thể`</summary><p>
+
+    - *`Động từ nguyên thể` là hình thức cơ bản của động từ, không bị thay đổi khi ghép câu*        
+        Could you **tell** me what time is it?      
+        I don't know, but you can **ask** Chi       
+      
+    - *`Động từ biến thể` là những động từ sẽ bị `thay đổi` hình thức, hay còn gọi là `chia động từ`*       
+        Huy **goes** to school every morning at half-past 7     
+        Yesterday, he **was** late
+    </details>
+
+### 19. So sánh hơn và so sánh nhất (Comparative and Superlative)
+1. So sánh hơn - Comparative
+    <details>
+    <summary>Định nghĩa</summary><p>
+
+    - *Để `so sánh` giữa 2 sự vật, sự việc, xem cái nào có tính chất, đặc điểm nổi trội `hơn`*        
+        Their relationship last **longer** than ever      
+    </details>
+
+    <details>
+    <summary>1. Đối với tính từ/trạng từ</summary><p>
+
+    - Đối với Tính từ/Trạng từ ngắn     
+
+        *Chủ ngữ + Động từ + Trạng từ/Tính từ + `-er` + (Danh từ) + than + Tân ngữ*         
+
+        The bride is **prettier** *than* the groom      
+        Chi has a **bigger** crush on him *than* her        
+
+    - Đối với tính từ/Trạng từ dài      
+
+        *Chủ ngữ + Động từ + `more/less` + Trạng từ/Tính từ + (Danh từ) + than + Tân ngữ*       
+
+        Chi is **more easy going** than Huy     
+        My dog is **less friendly** than Linh's      
+    </details>    
+
+    <details>
+    <summary>2. Đối với danh từ</summary><p>
+
+    - *Chủ ngữ + Động từ + more/fewer/less + Danh từ + than + Danh từ*
+
+        They need **more flowers** than I do        
+        I have been through **fewer relationship** than my brother      
+    </details>
+
+2. So sánh nhất - Superlative
+    <details>
+    <summary>Định nghĩa</summary><p>
+
+    - *So sánh sự vật, hiện tượng với là **hơn tất cả** sự vật, hiện tượng khác*
+        
+        *cao nhất - tallest, hay nhất - best, thông minh nhất - most intelligent...*
+
+        She is the **most hard-working** person in my family      
+    </details>
+
+    <details>
+    <summary>Cấu trúc</summary><p>
+
+    1. Với trạng từ/tính từ
+    - Với tính từ/trạng từ ngắn     
+
+        *Chủ ngữ + Động từ + the + Tính từ/Trạng từ + `-est` + Tân ngữ*     
+
+        This wedding is the biggest in this area        
+        She is the best guitar player of the team       
+
+    - Với tính từ/ trang từ dài
+
+        *Chủ ngữ + Động từ + the + most/least + Tính từ/Trạng từ + Tân ngữ*
+
+        Chi is the most **intelligent** woman Huy has ever met
+        They are the least **steady** *couple I know*, they're always fighting
+
+    2. Với danh từ
+       
+       *Chủ ngữ + Động từ + the + most/least + Danh từ + Tân ngữ*
+       
+       Linh drinks the most **milk** *when she is nervous*
+      
+    </details>
+
+    <details>
+    <summary>Cách thêm đuôi `-er` và `-est`</summary><p>
+
+    | Trường hợp                          | Từ gốc         | Thêm `-er`       | Thêm `est`          |
+    | ----------------------------------- | -------------- | ---------------- | ------------------- |
+    | 1. Từ ngắn và dài kết thúc bằng `e` | close          | closer           | closest             |
+    | => thêm `-r`hoặc `-st`              | large          | larger           | largest             |
+    |                                     | strange        | stranger         | strangest           |
+    |                                     | wise           | wiser            | wisest              |
+    |                                     | handsome       | handsomer /      | handsomest /        |
+    |                                     |                | more handsome    | most handsome       |
+    |                                     | polite         | politer /        | politest /          |
+    |                                     |                | more polite      | most polite         |
+    | <hr>                                | <hr>           | <hr>             | <hr>                |
+    | 2. Từ ngắn kết thúc bằng            | big            | bigger           | biggest             |
+    | 1 nguyên âm duy nhất + phụ âm       | fat            | fatter           | fattest             |
+    | => Gấp đôi phụ âm                   | red            | redder           | reddest             |
+    |                                     | sad            | sadder           | sadest              |
+    |                                     | thin           | thinner          | thinnest            |
+    | <hr>                                | <hr>           | <hr>             | <hr>                |
+    | 3. Từ ngắn và dài kết thúc bằng `y` | dry            | drier            | driest              |
+    | => Đổi `y -> i` thêm `-er`/`-est`   | spry           | sprier/spryer(*) | spriest/spryest(\*) |
+    |                                     | wry            | wrier/wryer(*)   | wriest/wryest(\*)   |
+    |                                     | heavy          | heavier          | heaviest            |
+    |                                     | shiny          | shinier          | shiniest            |
+    |                                     | tiny           | tinier           | tiniest             |
+    | <hr>                                | <hr>           | <hr>             | <hr>                |
+    | 4. Từ ngắn khác                     | fast           | faster           | fastest             |
+    | => thêm `-er`/`-est` như thường     | great          | greater          | greatest            |
+    |                                     | quick          | quicker          | quickest            |
+    |                                     | short          | shorter          | shortest            |
+    |                                     | tall           | taller           | tallest             |
+    | <hr>                                | <hr>           | <hr>             | <hr>                |
+    | 5. Từ dài kết thúc bằng `le`, `ow`  | able           | abler            | ablest              |
+    | => Chia như tính từ ngắn            | gentle         | gentler          | gentlest            |
+    | thêm `-er`/`-est` như thường        | hollow         | hollower         | hollowest           |
+    |                                     | narrow         | narrower         | narrowest           |
+    |                                     | shallow        | shallower        | shallowest          |
+    |                                     | simple         | simpler          | simplest            |
+    | <hr>                                | <hr>           | <hr>             | <hr>                |
+    | 6. Từ bất quy tắc                   | bad            | worse            | worst               |
+    |                                     | good           | better           | best                |
+    |                                     | many/much/some | more             | most                |
+    | *(khoảng cách vật lý)*              | far            | farther          | farthest            |
+    | *(khoảng cách, bổ sung...)*         | far            | further          | furthest            |
+    | *(thời gian)*                       | late           | later            | latest              |
+    | *(thứ tự)*                          | late           | latter           | last                |
+    | *(kích cỡ)*                         | little         | littler          | littlest            |
+    | *(số lượng)*                        | little         | less             | least               |
+    | *(tuổi tác)*                        | old            | older            | oldest              |
+    | *(cấp bậc)*                         | old            | elder            | eldest              |
+
+    - This day is getting **worse** than the first date
+    - My grandfather is the **eldest** in my family
+    </details>
+
+### 20. Equal Comparison - So sánh bằng 
+<details>
+<summary>Định nghĩa</summary><p>
+
+- *So sánh bằng dùng để so sánh 2 vật được nhắc tới đều `cùng ở một mức độ` nào đó*
+
+    I am **as tall as** my sister     
+</details>
+
+<details>
+<summary>Trong câu khẳng định</summary><p>
+
+- Đối với trạng từ, tính từ
+
+    + *Chủ ngữ + Động từ + as + Trạng từ/Tính từ + as + Danh từ*
+
+        They talk as loud as speakers
+
+- Đối với Danh từ
+
+    + *Chủ ngữ + động từ + as + many/much/little/few + Danh từ + as + Danh từ* 
+
+        She uses as many plastic bottle as I do
+        Endangered animals need as much protection as we human do 
+
+    + *Chủ ngữ + Động từ + the same + Danh từ + as + Danh từ*
+
+        This tropical forest has the same amount of trees as the other   
+</details>
+
+<details>
+<summary>Trong câu phủ định</summary><p>
+
+- Đối với trạng từ, tính từ
+
+    + *Chủ ngữ + động từ + not + as/so + Tính từ/Trạng từ + as + Tân ngữ*
+
+        Earth is not so polluted as this planet
+
+- Đối với Danh từ
+
+    + *Chủ ngữ + động từ + not + as/so + many/much/little/few + Danh từ + as + Tân ngữ*       
+    + *Chủ ngữ + động từ + not + the same + Tính từ/Trạng từ + as + Tân ngữ*
+
+        An does not score the same points on the Environmental Science quiz as Chi      
+        This river does not have so many plastics as that river   
+</details>
