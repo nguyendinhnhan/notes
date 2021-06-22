@@ -180,7 +180,7 @@
     
     1. Từ kết thúc bằng: O, S, SH, CH, X or Z*
         <details>
-        <summary>Thêm '-ES' vào cuối từ</summary><p>
+        <summary>Thêm '-ES' vào cuối từ: box -> boxES, quiz -> quizZES</summary><p>
 
         - *Từ có đuôi là `z` thì thêm 1 chữ `z` vào cuối tồi thêm `-es`*          
 
@@ -199,7 +199,7 @@
 
     2. Danh từ kết thúc bằng: Nguyên âm + Y
         <details>
-        <summary>Giữ nguyên và thêm 'S' ở cuối</summary><p>
+        <summary>Giữ nguyên và thêm 'S' ở cuối: boy -> boys</summary><p>
 
         | Số ít   | Số nhiều |
         | ------- | -------- |
@@ -213,7 +213,7 @@
 
     3. Danh từ kết thúc bằng: Phụ âm + Y
         <details>
-        <summary>Đổi 'Y -> I' thêm '-ES' ở cuối</summary><p>
+        <summary>Đổi 'Y -> I' thêm '-ES' ở cuối: citY -> citIES</summary><p>
 
         | Số ít     | Số nhiều    |
         | --------- | ----------- |
@@ -226,7 +226,7 @@
 
     4. Danh từ kết thúc bằng: F, FE
         <details>
-        <summary>Bỏ 'F' hoặc 'FE' và thêm '-VES' ở cuối</summary><p>
+        <summary>Đổi 'F/FE -> V' và thêm '-ES' ở cuối: liFE -> liVES</summary><p>
 
         | Số ít     | Số nhiều    |
         | --------- | ----------- |
@@ -240,7 +240,7 @@
 
     5. Danh từ kết thúc bằng: IS
         <details>
-        <summary>Đổi '-IS' thành '-ES' ở cuối</summary><p>
+        <summary>Đổi '-IS' thành '-ES' ở cuối: analysIS -> analysES</summary><p>
 
         | Số ít        | Số nhiều                 |
         | ------------ | ------------------------ |
@@ -254,7 +254,7 @@
 
     6. Danh từ kết thúc bằng: US
         <details>
-        <summary>Đổi '-US' thành '-I' ở cuối</summary><p>
+        <summary>Đổi '-US' thành '-I' ở cuối: cactUS -> cactI</summary><p>
 
         | Số ít        | Số nhiều                    |
         | ------------ | --------------------------- |
