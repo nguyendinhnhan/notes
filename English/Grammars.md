@@ -142,7 +142,7 @@
         I wrote **a letter**
 
    5. Danh từ đếm được số nhiều có thể `đứng 1 mình`            
-        I wrote **letters**
+        She eats **noodles** for lunch
 
    6. Mạo từ `không` đi được với danh từ không đếm được         
         We need more **time** to finish this dish
