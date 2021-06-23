@@ -162,11 +162,11 @@
     </details>
 
     <details>
-    <summary>Chuyển danh từ số ít thành danh từ số nhiều</summary><p>
+    <summary>9 Nguyên tắc chuyển danh từ số ít thành số nhiều</summary><p>
 
     - 
         <details>
-        <summary>Hầu hết đều có thể chuyển DANH TỪ SỐ ÍT sang NHIỀU bằng việc thêm '-S' vào cuối từ</summary><p>
+        <summary>Hầu hết đều thêm '-S' vào cuối từ</summary><p>
 
         | Số ít    | Số nhiều      |
         | -------- | ------------- |
@@ -266,9 +266,9 @@
         She sold me 2 **cacti** for a price of 1
         </details>
 
-    7. Những trường hợp đặc biệt 1
+    7. Những trường hợp Bất quy tắc
         <details>
-        <summary>Bất quy tắc</summary><p>
+        <summary>mAn -> mEn, fOOt -> fEEt...</summary><p>
 
         | Số ít      | Số nhiều              |
         | ---------- | --------------------- |
@@ -284,9 +284,9 @@
         The **men** lost an hour waiting for the receipts last week
         </details>
 
-    8. Những trường hợp đặc biệt 2
+    8. Những trường hợp Giữ nguyên
         <details>
-        <summary>Những từ dù là số ít hay nhiều đều GIỮ NGUYÊN</summary><p>
+        <summary>Fish, Sheep...</summary><p>
 
         | Số ít    | Số nhiều                 |
         | -------- | ------------------------ |
@@ -847,9 +847,9 @@
         <summary>Diễn tả hành động TÁC ĐỘNG lên người, vật</summary><p>
 
         - *Ai làm gì đó với ai/cái gì*
-        - *Luôn luôn phải đi cùng với Tân ngữ*
-        
-            I **pour** him a cup of water
+        - *Luôn luôn phải đi cùng với Tân ngữ*          
+
+            I **pour** him a cup of water       
             She **looks** at the watch
         </details>
 
@@ -857,9 +857,9 @@
         <details>
         <summary>Diễn tả HÀNH ĐỘNG, TRẠNG THÁI của người nói</summary><p>
 
-        - `Không` cần đi với Tân ngữ
+        - `Không` cần đi với Tân ngữ        
 
-            She is **walking**
+            She is **walking**      
             We **talked** for hours
         </details>
 
@@ -867,18 +867,18 @@
         <details>
         <summary>Để nối giữa CHỦ NGỮ và VỊ NGỮ</summary><p>
 
-        - *Không miêu tả hành động cụ thể nào mà chỉ chỉ ra `tình trạng` của sự vật sự việc và con người*
+        - *Không miêu tả hành động cụ thể nào mà chỉ chỉ ra `tình trạng` của sự vật sự việc và con người*           
 
-            She **is** a docter
-            You **seemed** sick this morning
+            She **is** a docter         
+            You **seemed** sick this morning        
 
         - *Một số động từ liên kết phổ biến:*
 
-            + *To be: am, is, are, was, were, be, been...*
+            + *To be: am, is, are, was, were, be, been...*          
                 They **were** sleeping at 10pm last night
 
-            + *become, seem, look, feel, sound, taste...*
-                I **became** a teacher
+            + *become, seem, look, feel, sound, taste...*           
+                I **became** a teacher          
                 We **feel** angry after waiting for 2 hours
         </details>
 
