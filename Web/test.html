@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Widgets</title>
+    <style>
+      .main {
+        width: 300px;
+        /* height: 1000px; */
+        margin: auto;
+      }
+      .widget1 {
+        background-color: yellow;
+        width: 100px;
+        height: 75px;
+        float: left;
+      }
+      .content {
+        background-color: aqua;
+      }
+      .widget2 {
+        background-color: greenyellow;
+        position: fixed;
+        top: 0;
+        right: 0;
+      }
+
+      table, th, td {
+        border: 1px solid black;
+      }
+      th, td {
+        padding: 6px;
+      }
+      tr:nth-child(3) td:first-child::after,
+      tr:nth-child(4) td:nth-child(1)::after {
+        content: ' (gluten free)';
+        color: green;
+      }
+      /* https://www.w3schools.com/cssref/trysel.asp?selector=li:nth-child(1) */
+    </style>
+  </head>
+  <body>
+    <div class="main">
+      <div class="widget1">Widget 1</div>
+      <div class="content">
+        Content ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+        ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+        ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+        ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+        ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+        ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+        ... ... ... ... ... ... ...
+      </div>
+      <div class="widget2">Widget 2</div>
+    </div>
+
+    <table>
+      <caption>Breakfast Menu</caption>
+      <thead>
+        <th>Item</th>
+        <th>Price</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Lumberjack w/ Eggs</td>
+          <td>$6.99</td>
+        </tr>
+        <tr>
+          <td>Waffle Wafers</td>
+          <td>$8.99</td>
+        </tr>
+        <tr>
+          <td>Skinny Sallad</td>
+          <td>$5.99</td>
+        </tr>
+        <tr>
+          <td>Savory Oatmeal</td>
+          <td>$7.99</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

@@ -917,7 +917,7 @@
       - totally, absolutely - *hoàn toàn*
       - quite, fairly, well - *khá*
 
-        That museum is **quite** big
+        That museum is **quite** big        
 
     + *Bổ nghĩa cho trạng từ khác*        
         I want to go to the cinema **so** badly         

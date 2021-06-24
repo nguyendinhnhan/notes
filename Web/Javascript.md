@@ -588,3 +588,119 @@ Just like with regular functions, the value of this within methods depends on ho
 [Call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call),
 [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply),
 [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+
+
+- Mutable (trạng thái - thay đổi được)
+- Immutable (trạng thái - không thay đổi được)
+  + Cách bộ nhớ lưu trữ và sử dụng biến:
+  + Bộ nhớ chương trình gồm có 2 thành phần là địa chỉ bộ nhớ và dữ liệu được lưu trữ trong bộ nhớ đó.
+  + Khi có một phép toán như phép gán `test = 3`, rõ ràng bộ nhớ cần lưu trữ chữ test và giá trị 3 của nó vào bộ nhớ:
+
+  | Địa chỉ bộ nhớ | Giá trị ô nhớ 1 | Giá trị ô nhớ 2 |
+  | -------------- | --------------- | --------------- |
+  | xxx1           | test            |                 |
+  | xxx2           | 3               |                 |
+  | xxx0           | xxx1            | xxx2            |
+
+- Phép toán `test = test * 2` khi nào là **mutable**, khi nào là **immutable**?
+
+  1. Phép toán trên được xem là **mutable** khi bộ nhớ thành như sau:
+
+  | Địa chỉ bộ nhớ | Giá trị ô nhớ 1 | Giá trị ô nhớ 2 |
+  | -------------- | --------------- | --------------- |
+  | xxx1           | test            |                 |
+  | xxx2           | 6               |                 |
+  | xxx0           | xxx1            | xxx2            |
+
+  2. Phép toán trên được xem là **immutable** khi bộ nhớ thành như sau:
+
+  | Địa chỉ bộ nhớ | Giá trị ô nhớ 1 | Giá trị ô nhớ 2 |
+  | -------------- | --------------- | --------------- |
+  | xxx1           | test            |                 |
+  | xxx2           | 3               |                 |
+  | xxx3           | 6               |                 |
+  | xxx0           | xxx1            | xxx3            |
+
+  - Như bạn thấy, khi giá trị của biến **không bị ghi đè** mà được copy sang một nơi khác thì đó mới là **immutable** , từ giá trị ở định nghĩa này chính là giá trị đi với ô nhớ.
+
+- Khi nào nên dùng **mutable**:
+  > Khi cần thay đổi một biến trong vòng lặp thì bạn nên dùng **mutable**
+
+  + Nếu lặp n phần tử mà ta dùng immutable như sau:
+  ```java
+  String s = ""; // String là immutable
+  for (int i = 0; i < n; ++i) {
+      s = s + n; // phải copy biến s cũ thành object khác rồi mới gán vào s mới được
+  }
+  // Cứ mỗi lần copy s cũ là phải lặp số ký tự có trong s cũ để copy
+  // dẫn tới thời gian tính toán của thuật toán là O(n²)
+  ```
+
+  + Ta có thể cải thiện thuật toán trên bằng cách sử dụng mutable:
+  ```java
+  StringBuilder sb = new StringBuilder();
+  for (int i = 0; i < n; ++i) {
+    sb.append(String.valueOf(n));
+  }
+
+  String s = sb.toString();
+  ```
+
+- Khi nào nên dùng **immutable**: 
+  + Trong đa số các trường hợp, bạn nên dùng **immutable** 
+  + vì immutable dễ hiểu và không xảy ra bug liên quan tới **reference** 
+    còn mutable khiến cho code không tuân theo luồng suy nghĩ của lập trình viên, khó đọc, dễ gây bug khó chịu liên quan tới reference.
+  + VD **mutable** gây bug:
+  ```java
+    /** @return the sum of the numbers in the list */
+  public static int sum(List<Integer> list) {
+      int sum = 0;
+      for (int x : list)
+          sum += x;
+      return sum;
+  }
+
+  /** @return the sum of the absolute values of the numbers in the list */
+  public static int sumAbsolute(List<Integer> list) {
+      // let's reuse sum(), because DRY, so first we take absolute values
+      for (int i = 0; i < list.size(); ++i)
+          list.set(i, Math.abs(list.get(i)));
+      return sum(list);
+  }
+
+  public static void main(String[] args) {
+      // ...
+      List<Integer> myData = Arrays.asList(-5, -3, -2);
+      System.out.println(sumAbsolute(myData)); // hàm sumAbsolute() đã làm mảng myData
+      System.out.println(sum(myData)); // nên hàm sum() không còn gọi đúng với myData ban đầu như dự kiến nữa
+  }
+  ```
+
+  + VD **immutable** trong React:
+  ```javascript
+  // Action type
+  const GET_STUDENT = 'GET_STUDENT';
+  const ADD_STUDENT = 'ADD_STUDENT';
+
+  // Reducer
+  const studentInitialState = {
+      students: [],
+      slelectedStudent: {}
+  };
+
+function studentData (state = studentInitialState, action) {
+    const newState = Object.assign({}, state);
+    // Tạo ra bản copy của state cũ, thay vì sử dụng Mutable state
+    
+    switch (action.type) {
+        case GET_STUDENTS:
+            newState.students = action.students
+        case ADD_STUDENT:
+            newState.students = [...state.students, action.student];
+        default:
+            return state;
+    }
+    return newState;
+}
+```
+- Để `GET_STUDENTS` hoặc `ADD_STUDENT`, mình tạo một **newState** và thực hiện những thay đổi bằng cách sử dụng `Object.assign` và cuối cùng trả về **newState** chứ không phải là state cũ để có thể đảm bảo trạng thái của nó.
