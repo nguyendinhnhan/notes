@@ -133,4 +133,21 @@ https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 - https://github.com/nguyendinhnhan/node_blog/commit/09464bd0f7b7e554ca6c280d38b62bce88772dce
 
 21. Course Detail page
+- https://github.com/nguyendinhnhan/node_blog/commit/20b6749adb453d3ef3f0cbdb92fdefb95ff0ea33
 
+22. Create a new course
+- https://github.com/nguyendinhnhan/node_blog/commit/502beed2025c28e29df3f479f310ab436074548c
+
+23. Update course
+- helpers: {sum: (a, b) => a + b}}) -> add functions sum to use in view: {{sum @index 1}} -> STT sẽ bắt đầu từ 1 thay vì 0
+- res.redirect("/me/stored/courses") -> thêm Location: /me/stored/courses vào trong Response Headers của Headers có thể view trong Network của Chrome
+- https://github.com/nguyendinhnhan/node_blog/commit/c06842c9b83639a4c16815445b61b37b0769b4d8
+
+24. Delete course
+- https://github.com/nguyendinhnhan/node_blog/commit/269d535c73d798b08d239063871693131a857119
+
+25. Soft delete
+- https://github.com/nguyendinhnhan/node_blog/commit/61bf6e59ba1bce01493ab981fd0e507900e54bd5
+
+26. Sort Middleware
+- https://github.com/nguyendinhnhan/node_blog/commit/524baab14ea391105209b97ef7908f4e251ede36
