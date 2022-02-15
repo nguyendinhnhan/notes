@@ -235,6 +235,7 @@ Inside a function, the value of this depends on how the function is called.
     // In Node:
     f1() === globalThis; // true
 ```
+
 In strict mode
 ```javascript
     function f2() {
@@ -362,6 +363,12 @@ var o = {a: 37, f: f, g: g, h: h};
 console.log(o.a, o.f(), o.g(), o.h()); // 37,37, azerty, azerty
 ```
 
+var obj = {
+  name: "a",
+  getName: () => {
+    return this.name
+  }
+}
 ### Arrow function
 
 1. Does not have its own bindings to 'this' or 'super', and should not be used as [methods](https://developer.mozilla.org/en-US/docs/Glossary/Method).
@@ -688,7 +695,7 @@ Just like with regular functions, the value of this within methods depends on ho
       slelectedStudent: {}
   };
 
-function studentData (state = studentInitialState, action) {
+  function studentData (state = studentInitialState, action) {
     const newState = Object.assign({}, state);
     // Tạo ra bản copy của state cũ, thay vì sử dụng Mutable state
     
@@ -701,6 +708,6 @@ function studentData (state = studentInitialState, action) {
             return state;
     }
     return newState;
-}
+  }
 ```
 - Để `GET_STUDENTS` hoặc `ADD_STUDENT`, mình tạo một **newState** và thực hiện những thay đổi bằng cách sử dụng `Object.assign` và cuối cùng trả về **newState** chứ không phải là state cũ để có thể đảm bảo trạng thái của nó.
