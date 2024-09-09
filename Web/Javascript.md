@@ -1,62 +1,193 @@
-### Prefix & Postfix
+### 1. What is Javascript?
+https://auth0.com/blog/a-brief-history-of-javascript/
+https://launchschool.com/books/javascript/read/basics
 
-> const a = 6;
 
+String interpolation: 
+```js
+`5 plus 5 equals ${5 + 5}`
 ```
-const output = ++a; // output = a = 7
+Remainder operator: ```5 % 2```
+Arguments are objects or primitive values being passed to the function; 
+Parameters are declarations for the local variables used inside the function to access the arguments.
 
-1: +1 cho a -> a = a + 1 = 7
->> 2: Trả về a sau khi +1
-3: Gán output = a = 7;
-```
+Invocation is a noun while invoking (as well as invoke and invoked) are the verb forms
+You invoke a function to call it or write a function invocation that will be called when the program runs
 
-```
-const output = a++; // output = 6, a = 7
-
-1: `a copy` = 6
-2: +1 cho a => a = a + 1 = 7
->> 3: Trả về `a copy`
-4: Gán output = `a copy` = 6
-```
-
-```
-const output = a++ * 2 - a-- + ++a;
-
-// a++ * 2  -> 6 * 2 = 12, a = 7
-// a--      ->          7, a = 6 
-// ++a      ->          7, a = 7
+non-mutating method:
+```js
+let name = "Pete Hanson";
+console.log(name.toUpperCase()); // => 'PETE HANSON'
+console.log(name);               // => 'Pete Hanson'
 ```
 
-> x ** y = x<sup>y</sup>
-
-### Convert to Boolean
-
-- 0
-- false
-- ''
-- undefined
-- NaN
-- null
-> 6 giá trị trên -> false
->> còn lại -> true
-
-### Toán tử logical
+mutating method:
+```js
+let oddNumbers = [1, 3, 5, 7, 9];
+oddNumbers.pop();
+console.log(oddNumbers); // => [1, 3, 5, 7]
 ```
-'A' && 1 > 0 && 'C'; // 'C'
-'A' && NaN && 'C'; // NaN
-Toán tử && chạy từ trái sang phải
-nếu gặp kết quả của phép so sánh là "1 trong 6 ký tự false" -> trả về ký tự đó
-nếu k gặp -> trả về kết quả của phép so sánh cuối cùng
+JavaScript is a pass-by-value or pass-by-reference language, JavaScript is both! 
+It uses pass-by-value when dealing with primitive values and pass-by-reference with objects and arrays.
+
+Function composition, JavaScript lets us use a function call as an argument to another function.
+```js
+function times(num1, num2) {
+  return num1 * num2;
+}
+
+console.log(times(add(20, 45), subtract(80, 10))); // => 4550
+// 4550 == ((20 + 45) * (80 - 10))
 ```
 
-```
-'A' || 1 > 0 || 'C'; // 'A'
-NaN || 'B' || 'C'; // 'B'
-Toán tử || chạy từ trái sang phải, ngược lại
-nếu gặp kết quả của phép so sánh là "không thuộc 6 ký tự false" -> trả về ký tự đó
-nếu k gặp -> trả về kết quả của phép so sánh cuối cùng
+3 ways to define a function:
+function declaration
+```js
+greetPeople();
+
+function greetPeople() {
+  console.log("Good Morning!");
+}
 ```
 
+Function expression
+```js
+let greetPeople = function () {
+  console.log("Good Morning!");
+};
+
+greetPeople();
+```
+
+Function expressions have one key difference from a function declaration: you cannot invoke a function expression before it appears in your program
+
+Any function definition that doesn't have the word function at the very beginning of a statement is a function expression
+```js
+(function greetPeople() { // This is a function expression, not a declaration
+  console.log("Good Morning!");
+});
+
+// greeter is a function expression
+function makeGreeter(name) {
+  return function greeter() {
+    console.log(`Hello ${name}`);
+  };
+}
+```
+
+Arrow function
+```js
+let greetPeople = () => console.log("Good Morning!");
+greetPeople();
+```
+
+### Call Stack
+A todo list of function invocations
+https://www.youtube.com/watch?v=W8AeMrVtFLY
+
+```js
+function first() {
+  console.log("first function");
+}
+
+function second() {
+  first();
+  console.log("second function");
+}
+
+second();
+```
+When this program starts running, the call stack initially has one item -- called a **stack frame**
+The initial stack frame is sometimes called the *main* function
+
+// TODO
+
+### Nullish Coalescing Operator ??
+```js
+> null ?? "over here!"
+= 'over here!'
+
+> undefined ?? "pick me!"
+= 'pick me!'
+
+> false ?? "not me"
+= false
+
+> 0 ?? "not me either"
+= 0
+```
+
+|| will return the right-hand operand if the left operand is a falsy value.
+?? will return the right-hand operand if the left operand is nullish.
+
+### Operator Precedence
+JavaScript has a set of precedence rules it uses to evaluate expressions that use multiple operators and sub-expressions. The following is a list of the comparison operations from the highest precedence (top) to lowest (bottom).
+
+<=, <, >, >= - Comparison
+===, !==, ==, != - Equality
+&& - Logical AND
+|| - Logical OR
+```js
+if (x || y && z) {
+  // The program first evaluates the y && z sub-expression since && has higher precedence than ||
+}
+
+if ((x || y) && z) {
+  // x || y gets evaluated first, and then result && z
+}
+```
+
+The Ternary Operator 
+expression ? true : false
+
+### Loops and Iterating
+while, do while, for
+JavaScript also has two other loop mechanisms: array abstractions (Array Iteration) and recursion
+
+### Recursion
+Recursion works same as Call stack
+```js
+function doubler(number) {
+  console.log(number);
+
+  if (number <= 50) {
+    doubler(number * 2);
+  }
+}
+
+doubler(5); // => 5
+            // => 10
+            // => 20
+            // => 40
+            // => 80
+```
+fibonacci(0) = 0
+fibonacci(1) = 1
+fibonacci(2) = fibonacci(1) + fibonacci(0) = 1 + 0 = 1
+fibonacci(3) = fibonacci(2) + fibonacci(1) = 1 + 1 = 2
+fibonacci(4) = fibonacci(3) + fibonacci(2) = 2 + 1 = 3
+fibonacci(5) = fibonacci(4) + fibonacci(3) = 3 + 2 = 5
+fibonacci(6) = fibonacci(5) + fibonacci(4) = 5 + 3 = 8
+fibonacci(7) = fibonacci(6) + fibonacci(5) = 8 + 5 = 13
+
+The key expression needed to solve this problem:
+```js
+fibonacci(0) = 0 // by definition
+fibonacci(1) = 1 // by definition
+fibonacci(n) = fibonacci(n - 1) + fibonacci(n - 2) // for all n >= 2
+```
+
+```js
+function fibonacci(number) {
+  if (number < 2) return number; // 0 if number is 0, 1 if number is 1
+  return fibonacci(number - 1) + fibonacci(number - 2);
+}
+
+console.log(fibonacci(6));  // => 8
+console.log(fibonacci(20)); // => 6765
+```
+![fibonacci](./images/fibonacci_diagram.jpg)
+The recursive calls work their way down the tree: f(6) calls f(5) and f(4); f(5) calls f(4) and f(3). In the end, we reach the lowest level in the tree which always has a 1 or 0 return value in this algorithm. Once it reaches the bottom, the code starts adding return values and percolating back up the tree. When it works its way back to the top, it returns the final result.
 ### Data Type
 
 1. Primitive Data - Dữ liệu nguyên thuỷ
@@ -65,7 +196,8 @@ nếu k gặp -> trả về kết quả của phép so sánh cuối cùng
    - Boolean
    - Undefined
    - Null
-   - Symbol   
+   - Symbol (ES6)
+   - BigInt (ES6)   
   
 ```
     typeof null = object
@@ -165,6 +297,210 @@ nếu k gặp -> trả về kết quả của phép so sánh cuối cùng
     }
 ```
 ![alt text](./images/object-constructor-prototype.png)
+
+### Prefix & Postfix
+the pre-increment operator and the post-increment operator
+The pre-increment form returns the new value of the variable, while the post-increment form returns the previous value of the variable.
+```js
+> let a = 1;
+> ++a;
+= 2
+
+> a
+= 2
+
+> a++
+= 2
+
+> a
+= 3
+```
+Most developers still use them in the increment clause of a for loop.
+However, they shouldn't be used anywhere else.
+They recommend using the += and -= operators instead; it's only a few characters more to type.
+```js
+> const a = 6;
+
+const output = ++a; // output = a = 7
+
+/*
+1: +1 cho a -> a = a + 1 = 7
+>> 2: Trả về a sau khi +1
+3: Gán output = a = 7;
+*/
+
+const output = a++; // output = 6, a = 7
+
+/*
+1: `a copy` = 6
+2: +1 cho a => a = a + 1 = 7
+>> 3: Trả về `a copy`
+4: Gán output = `a copy` = 6
+*/
+
+const output = a++ * 2 - a-- + ++a; // 12
+
+/*
+a++ * 2  -> 6 * 2 = 12, a = 7
+a--      ->          7, a = 6 
+++a      ->          7, a = 7
+*/
+```
+
+### Controlling Loop
+countinue and break
+```js
+let names = ['Chris', 'Kevin', 'Naveed', 'Pete', 'Victor'];
+let upperNames = [];
+
+for (let index = 0; index < names.length; index += 1) {
+  if (names[index] === 'Naveed') {
+    continue;
+  }
+
+  let upperCaseName = names[index].toUpperCase();
+  upperNames.push(upperCaseName);
+}
+
+console.log(upperNames); // => ['CHRIS', 'KEVIN', 'PETE', 'VICTOR']
+```
+```js
+let names = ['Chris', 'Kevin', 'Naveed', 'Pete', 'Victor'];
+let upperNames = [];
+
+for (let index = 0; index < names.length; index += 1) {
+  if (names[index] !== 'Naveed') {
+    let upperCaseName = names[index].toUpperCase();
+    upperNames.push(upperCaseName);
+  }
+}
+
+console.log(upperNames); // ['CHRIS', 'KEVIN', 'PETE', 'VICTOR']
+```
+This code behaves like the version that uses continue.
+Without continue, your loops get cluttered with nested conditional logic.
+```js
+for (let i = 0; i < someNumber; i += 1) {
+  if (someCondition) {
+    // some code here
+    if (anotherCondition) {
+      // some more code here
+    }
+  }
+}
+
+for (let i = 0; i < someNumber; i += 1) {
+  if (!someCondition) continue;
+  // some code here
+
+  if (!anotherCondition) continue;
+  // some more code here
+}
+```
+the single-line version of the if statement can make your code easier to read
+when using a continue, break, or return statement as the if clause
+```js
+let array = [3, 1, 5, 9, 2, 6, 4, 7];
+let indexOfFive = -1;
+
+for (let i = 0; i < array.length; i += 1) {
+  if (array[i] === 5) {
+    indexOfFive = i;
+  }
+}
+
+console.log(indexOfFive);
+```
+```js
+let array = [3, 1, 5, 9, 2, 6, 4, 7]
+let indexOfFive = -1;
+
+for (let i = 0; i < array.length; i += 1) {
+  if (array[i] === 5) {
+    indexOfFive = i;
+    break;
+  }
+}
+
+console.log(indexOfFive);
+```
+
+> x ** y = x<sup>y</sup>
+
+a  | b |	a % b (remainder)	| a modulo b
+---|---|--------------------|-----------
+17  | 5  |  2  | 2
+17  | -5 |	2  | -3
+-17 |	5  |	-2 | 3
+-17 |	-5 |	-2 | -2
+
+```javascript
+typeof 1 //'number'
+
+typeof 'foo' //'string'
+
+typeof true // 'boolean'
+
+typeof undefined // 'undefined'
+
+typeof null // 'object'
+
+typeof [1, 2, 3] // 'object'
+
+```
+
+### NaN
+
+```javascript
+typeof NaN // 'number'
+let value = NaN;
+
+value === NaN // false // We'll talk about this in a few minutes
+NaN === NaN // false
+
+Number.isNaN(value) // true
+Object.is(value, NaN) // true
+```
+### Infinity
+```javascript
+1 / 0 // Infinity
+-1 / 0 // -Infinity
+typeof Infinity // 'number'
+typeof -Infinity // 'number'
+```
+
+### Data structure
+1. Arrays: [1, 2, 3, 4, 5]
+2. Objects: { dog: 'barks' }
+
+### Convert to Boolean
+
+- 0 
+  0, -0, 0n (BigInt)
+- false
+- ''
+- undefined
+- NaN
+- null
+> 6 giá trị trên -> falsy
+>> còn lại -> truthy
+
+### Toán tử logical
+```
+'A' && 1 > 0 && 'C'; // 'C'
+'A' && NaN && 'C'; // NaN
+Toán tử && chạy từ trái sang phải
+nếu gặp kết quả của phép so sánh là "1 trong 6 ký tự false" -> trả về ký tự đó
+nếu k gặp -> trả về kết quả của phép so sánh cuối cùng
+```
+
+```
+'A' || 1 > 0 || 'C'; // 'A'
+NaN || 'B' || 'C'; // 'B'
+Toán tử || chạy từ trái sang phải, ngược lại
+nếu gặp kết quả của phép so sánh là "không thuộc 6 ký tự false" -> trả về ký tự đó
+nếu k gặp -> trả về kết quả của phép so sánh cuối cùng
+```
 
 ### Loop
  - for 
