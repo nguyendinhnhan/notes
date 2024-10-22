@@ -89,7 +89,7 @@ Services are  used to handle network related staffs and communication with other
 
 ## Template 
 
-Please download the template by clicking <a href="/iOS/Template/MVVM.xctemplate.zip" download="MVVM.xctemplate.zip">here</a>.
+Please download the template by clicking <a href="/iOS/Templates/MVVM.xctemplate.zip" download="MVVM.xctemplate.zip">here</a>.
 
 Unzip the file and then copy it to the location: `/Users/[Name]]/Library/Developer/Xcode/Templates`
 

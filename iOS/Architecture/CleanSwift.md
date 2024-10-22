@@ -109,7 +109,7 @@ Workers are used to handle network related staffs and communication with other m
 
 ## Template 
 
-Please download the template by clicking <a href="/iOS/Template/CleanSwift.xctemplate.zip" download="CleanSwift.xctemplate.zip">here</a>.
+Please download the template by clicking <a href="/iOS/Templates/CleanSwift.xctemplate.zip" download="CleanSwift.xctemplate.zip">here</a>.
 
 Unzip the file and then copy it to the location: `/Users/[Name]]/Library/Developer/Xcode/Templates`
 
